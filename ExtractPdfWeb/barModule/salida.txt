@@ -1,0 +1,280 @@
+
+
+
+-------------------------------------
+FECHA: Tue Jun 19 00:27:20 2018  ESCALA DE GRISES: T
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales a
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00)
+
+IVA (21% ): 651
+
+TOTAL: 37,51
+
+
+-------------------------------------
+FECHA: Wed Jun 20 15:47:59 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 19:24:07 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 19:24:47 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 19:25:08 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 19:29:16 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:29:04 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €

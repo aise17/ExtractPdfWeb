@@ -1,0 +1,1696 @@
+
+
+
+-------------------------------------
+FECHA: Wed Jun 20 19:37:30 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+
+
+
+-------------------------------------
+FECHA: Wed Jun 20 19:44:06 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+
+
+
+-------------------------------------
+FECHA: Wed Jun 20 19:44:11 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+
+
+
+-------------------------------------
+FECHA: Wed Jun 20 19:48:57 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+enna
+Dnata SC
+uu
+
+u
+
+POPPOPENTTRNTIRAIII)
+ 
+
+iu mires
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e ni al
+ 
+
+nA Ler
+TT =
+‘CTO eae
+aa
+“Shigiiveae oePara poner un condicional en el documento XML ,
+se agrega un elemento condicional <xsl:if>
+
+Sintaxis:
+
+<xsl:if test="expression">
+...da una Salida si la expresion es cierta...
+
+</xsl:if>Documento XML
+
+Que libros
+son del
+ado Valores - <xsl;
+
+   
+ 
+<?xml-version="1.0"-encoding="UTF-8"?>
+ki--Ejemplo:-PA11-01.xml—>
+<?xml-stylesheet-type="text/xsl"-href="PR1 1-001 xsl"? >
+E] <biblioteca>
+A] <libro>
+<titulo-idioma="es'">La-vida-esta-en otra -parte<fitulo>
+<autor>Milan-Kundera</autor>
+<fechaPublicacion-afio="1973'}>
+
+ <flibro>
+ 
+ 
+
+E] <libro>
+<titulo-idioma="es'"}Pantaleén-y-las-visitadoras4¢jtitulo>
+<autor>Mario Vargas Llosa</autor,
+
+acion-aino="1973'%>
+ 
+
+escritor Mario
+Vargas
+Llosa??
+ 
+ 
+ 
+ 
+ 
+
+17 | <titulo idiomases"Conversacién ene cotedral titulo
+18 | <autor>Mario-¥arga: 0 0
+
+19 | <fechaPublicacion-afio="1969"4>
+
+20 - <flibro>
+
+21 ©) <libro>
+
+22 | <titulo-idioma="en">Complete ‘Stories and Poems -of Edgar Allan Poe<ftitulo>
+23 | <autor>Edgar Allan Poe<jautor>
+
+24 | <fechaPublicacion-afio="1890'4>
+
+25 + <flibro>
+
+26 El <libro>
+
+2? | <titulo idioma="tr'>Les Miserables <ftitulo>
+
+26 | <autor>Victor Hugo<j/autor>
+
+29 | <fechaPublicacion-aiio="1862"}>
+
+30 | <flibro>
+
+31 2) <libro>
+
+32 | <titulo-idiama="es'>Plenilunio<#itulo>
+
+33° | <autor>Antonio-Mufioz-Molina</autor>
+
+34 | <fechaPublicacion-aiio="1997"4>
+
+35 > <flibro>
+
+36 | <fbiblioteca>Documento XLS
+ 
+
+<?xml -version=""1.0"-encoding="UTF-8'"'?>
+=| kxslistylesheet-version="1 .0"-xmlins:xsl="http)have.w3.org!] $999/435L/Transform™>
+=] <xslitemplate -match="/'>
+=| <html xmins="http:faww.w3.org/1 999/<html">
+El <head>
+<meta http-equiv="ContentType™-content="text{fhtml: chars et=iso-8859-1"}>
+<title>Listado-de libros ordenado alfabeticamente de Mario Vargas Llosa<ftitle>
++ <{{head>
+<body>
+<xslt for- each: select “Ybibliotecaflibro'’>
+ 
+ 
+ 
+ 
+ 
+
+    
+ 
+    
+<xshif-test="autor-= "Mario: a -Llosa"'>
+<xal: Value-of select="titulo'}> <br>
+
+  
+
+Ee amily
+
+<xsliif test="expression">
+L <fhtmi> ae E ;
+L <pesi:template> ...da una salida si la expresion es cierta...
+<ixslistylesheet> </xslif>Documento XHTML
+Conversacion en la catedral
+Pantaleon y las visitadorasTengo una documento creado en XML
+donde se refleja un catalogo de una
+coleccion de discos. Se indica el Titulo del
+disco/ Autor / Pais / Compania de discos /
+Precio / Ano de salida al mercado.ado Valores - <xs!
+wR soot ee ————
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLCopy-->
+<catalog>
+<cd>
+<title>Empire Burlesque</title>
+<artist>Bob Dylan</artist>
+<country>USA</country>
+<company>Columbia</company>
+<price>10.90</price>
+<year>1985</year>
+</ed>
+<cd>
+<title>Hide your heart</title>
+<artist>Bonnie Tyler</artist>
+<country>UK</country>
+<company>CBS Records</company>
+<price>9.90</price>
+<year>1988</year>
+</ed>
+<cd>
+<title>Greatest Hits</title>
+<artist>Dolly Parton</artist>
+<country>USA</country>
+<company>RCA</company>
+<price>9.90</price>
+<year>1982</year>
+
+</ed> SIGUE...... WW!SIGUE...... es muy
+largo!! s s
+<cd>
+<title>Red</title>
+<artist>The Communards</artist>
+<country>UK</country> |
+<company>London</company>
+<price>7.80</price> |
+<year>1987</year>
+</cd>
+<cd>
+<title>Unchain my heart</title>
+<artist>Joe Cocker</artist> |
+<country>USA</country> |
+<company>EMI</company> |
+<price>8.20</price> |
+<year>1987</year>
+</cd> |
+</catalog>Valores - <xs
+Quiero que me muestre en una tabla... el Titulo del
+album y los cantantes correspondiente que tengan un
+precio superior a10€
+MI COLECCION DE CDS
+
+Titulo Artistas
+Empire Burlesque Bob Dylan
+ 
+ 
+ 
+ 
+
+[sua got the blues [Gary Moore
+One night only Bee Gees
+Black angel Savage Rose
+ 
+
+1999 Grammy Nominees||ManyValores - <xs
+—S=S==
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Edited by XMLSpy® -->
+
+<xsl:stylesheet version="1.0"
+
+xmins:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:template match="/">
+
+<tr bgcolor="#9
+<th>Titulo</th>
+<th>Artistas</th>
+
+X Or-Eeacn = atalod
+<xsl:if test="price>10">
+<tr>
+<td><xsl:value-of select="title"/></td>
+<td><xsl:value-of select="artist"/></td>
+</tr>
+</xslif>
+</xsl:for-each>
+| </table> |
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>[One might only [Bee Gees
+Romanza Andrea Bocelli
+Savage Roselores - <xsl:c
+
+Cuando el precio de un disco sea mayor de 10€ ...
+colorea la celda de color ...
+
+MI COLECCION DE CDS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Titulo Artistas
+Empire Burlesque [Bob Dylan
+Hide your heart Bonnie Tyler
+Greatest Hits Dolly Parton
+Still got the blues [Gary Moore
+Eros Eros Ramazzotti
+One night only BeeGees
+Syivias Mother Dr. Hook
+Maggie May Rod Stewart
+When a man loves a woman|/Percy Sledge
+Black angel [Savage Rose
+1999 Grammy Nominees |WAS
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLCopy-->
+<catalog>
+<cd>
+<title>Empire Burlesque</title>
+<artist>Bob Dylan</artist>
+<country>USA</country>
+<company>Columbia</company>
+<price>10.90</price>
+<year>1985</year>
+</ed>
+<cd>
+<title>Hide your heart</title>
+<artist>Bonnie Tyler</artist>
+<country>UK</country>
+<company>CBS Records</company>
+<price>9.90</price>
+<year>1988</year>
+</cd>
+<cd>
+<title>Greatest Hits</title>
+<artist>Dolly Parton</artist>
+<country>USA</country>
+<company>RCA</company>
+<price>9.90</price>
+<year>1982</year>
+</ed>
+
+Nalores - <xsl:ch
+
+—=—_—
+
+SIGUE...... WW!SIGUE...... es muy largo!!!
+
+<cd>
+<title>Red</title>
+<artist>The Communards</artist>
+<country>UK</country> |
+<company>London</company>
+<price>7.80</price> |
+<year>1987</year>
+</cd>
+<cd>
+<title>Unchain my heart</title>
+<artist>Joe Cocker</artist> |
+<country>USA</country> |
+<company>EMI</company> |
+<price>8.20</price> |
+<year>1987</year>
+</cd> |
+</catalog>lores - <xsl:c
+El elemento <xsl:choose> se usa en conjunto con
+<xsl:when> y <xsl:otherwise> para expresar
+multiples condiciones
+
+Syntax
+<xsI:choose>
+<xsl:when test="expression">
+... primera salida ...
+</xsl:when>
+
+<xsl:otherwise>
+... Otra salida ....
+</xsl:otherwise>
+</xsl:choose> .Nalores - <xsl:ch
+
+WAS
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLCopy--> XML
+<catalog>
+<cd>
+
+<title>Empire Burlesque</title>
+<artist>Bob Dylan</artist>
+<country>USA</country>
+<company>Columbia</company>
+<price>10.90</price>
+<year>1985</year>
+
+</ed>
+
+<cd>
+<title>Hide your heart</title>
+<artist>Bonnie Tyler</artist>
+<country>UK</country>
+<company>CBS Records</company>
+<price>9.90</price>
+<year>1988</year>
+
+</ed>
+
+<cd>
+<title>Greatest Hits</title>
+<artist>Dolly Parton</artist>
+<country>USA</country>
+<company>RCA</company>
+<price>9.90</price>
+<year>1982</year>
+
+</ed><cd>
+
+<title>Red</title>
+<artist>The Communards</artist>
+<country>UK</country>
+<company>London</company>
+<price>7.80</price>
+<year>1987</year>
+
+</cd>
+
+<cd>
+<title>Unchain my heart</title>
+<artist>Joe Cocker</artist>
+<country>USA</country>
+<company>EMI</company>
+<price>8.20</price>
+<year>1987</year>
+
+</cd>
+
+</catalog>- [<?xml version="1.0" encoding="ISO-8859-1"?>
+<xsl:stylesheet version="1.0"
+xmins:xsl="http://www.w3.org/1999/XSL/Transform">
+
+   
+
+<xsl:template match="/">
+<html>
+<body>
+<h2>My CD Collection</h2>
+<table border="1">
+<tr bgcolor="#9acd32">
+<th>Title</th>
+<th>Artist</th>
+</tr>
+
+. —W 1 "
+<xsl:for-each select="catalog/cd"> <xsl:when test= Rice e 10 C
+<tr> <td bgcolor="#ff00ff">
+
+<td><xsl:value-of select="title"/></td>
+<xsl:choose> <xsl:value-of select="artist"/></td>
+<xsl:when test="price > 10"> < . >
+<td bgcolor="#ffOOff'> /xsl:when
+<xsl:value-of select="artist"/></td> <xsl:otherwise>
+</xsl:when> ‘
+Sxal otherwise <td><xsl:value-of
+<td><xsl:value-of select="artist"/></td>
+</xsl:otherwise>
+</xs|:choose>
+It g
+Sa ioe </xsl:choose>
+</table> </tr>
+</body>
+</htmi> </xsl:for-each>
+
+</xsl:template>
+
+</xsl:stylesheet>Valores - <xsl:chose—
+
+<xsl:for-each select="catalog/cd">
+<tr>
+<td><xsl:value-of select="title"/></td>
+<xsI:choose>
+ 
+ 
+
+: Syntax
+<xsl:when test="price > 10"> on
+<xsl:when test= expression >
+<td bg color="#ffOOff"> .. primera salida ...
+
+</xsl:when>
+
+<xsl:value-of select="artist"/></td>)  <stothenvise-
+</xsl:when> ig: [siterine>
+<xsl:otherwise>
+<td><xsl:value-of select="artist"/></td>
+</xsl:otherwise>
+</xsl:choose>
+</tr>
+
+</xsl:for-each>alores - <xXs
+
+MI COLECCION DE CDS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Titulo Artistas
+Empire Burlesque [Bob Dylan
+Hide your heart Bonnie Tyler
+Greatest Hits Dolly Parton
+Stil got the blues [Gary Moore
+Eros Eros Ramazzotti
+One night only BeeGees
+Syhvias Mother Dr. Hook
+Maggie May Rod Stewart
+ 
+
+When aman loves a woman
+
+Percy Sledge
+ 
+ 
+
+Black angel
+ 
+ 
+1999 Grammy Nominees
+ 
+
+1999 Grammy Nominees
+ 
+
+[For the good times
+
+Kenny Rogers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Big Wilke style Will Smith
+Tupelo Honey Van Morrison
+Soulsville Jorn Hoel
+The very best of Cat Stevens
+Stop Sam Brown
+Bridge of Spies T Pau
+Private Dancer Tina Turner
+IMidt om natten Kim Larsen
+ 
+
+(Pavarotti Gala Concert
+
+[Luciano Pavarotti
+ 
+ 
+ 
+ 
+The dock of the bay Otis Redding
+Picture book Simply Red
+
+Red The Communards
+(Unchain my heart Joe Cocker
+ 
+ 
+ 
+ 
+
+20
+
+
+-------------------------------------
+FECHA: Wed Jun 20 19:55:41 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+enna
+Dnata SC
+uu
+
+u
+
+POPPOPENTTRNTIRAIII)
+ 
+
+iu mires
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e ni al
+ 
+
+nA Ler
+TT =
+‘CTO eae
+aa
+“Shigiiveae oePara poner un condicional en el documento XML ,
+se agrega un elemento condicional <xsl:if>
+
+Sintaxis:
+
+<xsl:if test="expression">
+...da una Salida si la expresion es cierta...
+
+</xsl:if>Documento XML
+
+Que libros
+son del
+ado Valores - <xsl;
+
+   
+ 
+<?xml-version="1.0"-encoding="UTF-8"?>
+ki--Ejemplo:-PA11-01.xml—>
+<?xml-stylesheet-type="text/xsl"-href="PR1 1-001 xsl"? >
+E] <biblioteca>
+A] <libro>
+<titulo-idioma="es'">La-vida-esta-en otra -parte<fitulo>
+<autor>Milan-Kundera</autor>
+<fechaPublicacion-afio="1973'}>
+
+ <flibro>
+ 
+ 
+
+E] <libro>
+<titulo-idioma="es'"}Pantaleén-y-las-visitadoras4¢jtitulo>
+<autor>Mario Vargas Llosa</autor,
+
+acion-aino="1973'%>
+ 
+
+escritor Mario
+Vargas
+Llosa??
+ 
+ 
+ 
+ 
+ 
+
+17 | <titulo idiomases"Conversacién ene cotedral titulo
+18 | <autor>Mario-¥arga: 0 0
+
+19 | <fechaPublicacion-afio="1969"4>
+
+20 - <flibro>
+
+21 ©) <libro>
+
+22 | <titulo-idioma="en">Complete ‘Stories and Poems -of Edgar Allan Poe<ftitulo>
+23 | <autor>Edgar Allan Poe<jautor>
+
+24 | <fechaPublicacion-afio="1890'4>
+
+25 + <flibro>
+
+26 El <libro>
+
+2? | <titulo idioma="tr'>Les Miserables <ftitulo>
+
+26 | <autor>Victor Hugo<j/autor>
+
+29 | <fechaPublicacion-aiio="1862"}>
+
+30 | <flibro>
+
+31 2) <libro>
+
+32 | <titulo-idiama="es'>Plenilunio<#itulo>
+
+33° | <autor>Antonio-Mufioz-Molina</autor>
+
+34 | <fechaPublicacion-aiio="1997"4>
+
+35 > <flibro>
+
+36 | <fbiblioteca>Documento XLS
+ 
+
+<?xml -version=""1.0"-encoding="UTF-8'"'?>
+=| kxslistylesheet-version="1 .0"-xmlins:xsl="http)have.w3.org!] $999/435L/Transform™>
+=] <xslitemplate -match="/'>
+=| <html xmins="http:faww.w3.org/1 999/<html">
+El <head>
+<meta http-equiv="ContentType™-content="text{fhtml: chars et=iso-8859-1"}>
+<title>Listado-de libros ordenado alfabeticamente de Mario Vargas Llosa<ftitle>
++ <{{head>
+<body>
+<xslt for- each: select “Ybibliotecaflibro'’>
+ 
+ 
+ 
+ 
+ 
+
+    
+ 
+    
+<xshif-test="autor-= "Mario: a -Llosa"'>
+<xal: Value-of select="titulo'}> <br>
+
+  
+
+Ee amily
+
+<xsliif test="expression">
+L <fhtmi> ae E ;
+L <pesi:template> ...da una salida si la expresion es cierta...
+<ixslistylesheet> </xslif>Documento XHTML
+Conversacion en la catedral
+Pantaleon y las visitadorasTengo una documento creado en XML
+donde se refleja un catalogo de una
+coleccion de discos. Se indica el Titulo del
+disco/ Autor / Pais / Compania de discos /
+Precio / Ano de salida al mercado.ado Valores - <xs!
+wR soot ee ————
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLCopy-->
+<catalog>
+<cd>
+<title>Empire Burlesque</title>
+<artist>Bob Dylan</artist>
+<country>USA</country>
+<company>Columbia</company>
+<price>10.90</price>
+<year>1985</year>
+</ed>
+<cd>
+<title>Hide your heart</title>
+<artist>Bonnie Tyler</artist>
+<country>UK</country>
+<company>CBS Records</company>
+<price>9.90</price>
+<year>1988</year>
+</ed>
+<cd>
+<title>Greatest Hits</title>
+<artist>Dolly Parton</artist>
+<country>USA</country>
+<company>RCA</company>
+<price>9.90</price>
+<year>1982</year>
+
+</ed> SIGUE...... WW!SIGUE...... es muy
+largo!! s s
+<cd>
+<title>Red</title>
+<artist>The Communards</artist>
+<country>UK</country> |
+<company>London</company>
+<price>7.80</price> |
+<year>1987</year>
+</cd>
+<cd>
+<title>Unchain my heart</title>
+<artist>Joe Cocker</artist> |
+<country>USA</country> |
+<company>EMI</company> |
+<price>8.20</price> |
+<year>1987</year>
+</cd> |
+</catalog>Valores - <xs
+Quiero que me muestre en una tabla... el Titulo del
+album y los cantantes correspondiente que tengan un
+precio superior a10€
+MI COLECCION DE CDS
+
+Titulo Artistas
+Empire Burlesque Bob Dylan
+ 
+ 
+ 
+ 
+
+[sua got the blues [Gary Moore
+One night only Bee Gees
+Black angel Savage Rose
+ 
+
+1999 Grammy Nominees||ManyValores - <xs
+—S=S==
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Edited by XMLSpy® -->
+
+<xsl:stylesheet version="1.0"
+
+xmins:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:template match="/">
+
+<tr bgcolor="#9
+<th>Titulo</th>
+<th>Artistas</th>
+
+X Or-Eeacn = atalod
+<xsl:if test="price>10">
+<tr>
+<td><xsl:value-of select="title"/></td>
+<td><xsl:value-of select="artist"/></td>
+</tr>
+</xslif>
+</xsl:for-each>
+| </table> |
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>[One might only [Bee Gees
+Romanza Andrea Bocelli
+Savage Roselores - <xsl:c
+
+Cuando el precio de un disco sea mayor de 10€ ...
+colorea la celda de color ...
+
+MI COLECCION DE CDS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Titulo Artistas
+Empire Burlesque [Bob Dylan
+Hide your heart Bonnie Tyler
+Greatest Hits Dolly Parton
+Still got the blues [Gary Moore
+Eros Eros Ramazzotti
+One night only BeeGees
+Syivias Mother Dr. Hook
+Maggie May Rod Stewart
+When a man loves a woman|/Percy Sledge
+Black angel [Savage Rose
+1999 Grammy Nominees |WAS
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLCopy-->
+<catalog>
+<cd>
+<title>Empire Burlesque</title>
+<artist>Bob Dylan</artist>
+<country>USA</country>
+<company>Columbia</company>
+<price>10.90</price>
+<year>1985</year>
+</ed>
+<cd>
+<title>Hide your heart</title>
+<artist>Bonnie Tyler</artist>
+<country>UK</country>
+<company>CBS Records</company>
+<price>9.90</price>
+<year>1988</year>
+</cd>
+<cd>
+<title>Greatest Hits</title>
+<artist>Dolly Parton</artist>
+<country>USA</country>
+<company>RCA</company>
+<price>9.90</price>
+<year>1982</year>
+</ed>
+
+Nalores - <xsl:ch
+
+—=—_—
+
+SIGUE...... WW!SIGUE...... es muy largo!!!
+
+<cd>
+<title>Red</title>
+<artist>The Communards</artist>
+<country>UK</country> |
+<company>London</company>
+<price>7.80</price> |
+<year>1987</year>
+</cd>
+<cd>
+<title>Unchain my heart</title>
+<artist>Joe Cocker</artist> |
+<country>USA</country> |
+<company>EMI</company> |
+<price>8.20</price> |
+<year>1987</year>
+</cd> |
+</catalog>lores - <xsl:c
+El elemento <xsl:choose> se usa en conjunto con
+<xsl:when> y <xsl:otherwise> para expresar
+multiples condiciones
+
+Syntax
+<xsI:choose>
+<xsl:when test="expression">
+... primera salida ...
+</xsl:when>
+
+<xsl:otherwise>
+... Otra salida ....
+</xsl:otherwise>
+</xsl:choose> .Nalores - <xsl:ch
+
+WAS
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLCopy--> XML
+<catalog>
+<cd>
+
+<title>Empire Burlesque</title>
+<artist>Bob Dylan</artist>
+<country>USA</country>
+<company>Columbia</company>
+<price>10.90</price>
+<year>1985</year>
+
+</ed>
+
+<cd>
+<title>Hide your heart</title>
+<artist>Bonnie Tyler</artist>
+<country>UK</country>
+<company>CBS Records</company>
+<price>9.90</price>
+<year>1988</year>
+
+</ed>
+
+<cd>
+<title>Greatest Hits</title>
+<artist>Dolly Parton</artist>
+<country>USA</country>
+<company>RCA</company>
+<price>9.90</price>
+<year>1982</year>
+
+</ed><cd>
+
+<title>Red</title>
+<artist>The Communards</artist>
+<country>UK</country>
+<company>London</company>
+<price>7.80</price>
+<year>1987</year>
+
+</cd>
+
+<cd>
+<title>Unchain my heart</title>
+<artist>Joe Cocker</artist>
+<country>USA</country>
+<company>EMI</company>
+<price>8.20</price>
+<year>1987</year>
+
+</cd>
+
+</catalog>- [<?xml version="1.0" encoding="ISO-8859-1"?>
+<xsl:stylesheet version="1.0"
+xmins:xsl="http://www.w3.org/1999/XSL/Transform">
+
+   
+
+<xsl:template match="/">
+<html>
+<body>
+<h2>My CD Collection</h2>
+<table border="1">
+<tr bgcolor="#9acd32">
+<th>Title</th>
+<th>Artist</th>
+</tr>
+
+. —W 1 "
+<xsl:for-each select="catalog/cd"> <xsl:when test= Rice e 10 C
+<tr> <td bgcolor="#ff00ff">
+
+<td><xsl:value-of select="title"/></td>
+<xsl:choose> <xsl:value-of select="artist"/></td>
+<xsl:when test="price > 10"> < . >
+<td bgcolor="#ffOOff'> /xsl:when
+<xsl:value-of select="artist"/></td> <xsl:otherwise>
+</xsl:when> ‘
+Sxal otherwise <td><xsl:value-of
+<td><xsl:value-of select="artist"/></td>
+</xsl:otherwise>
+</xs|:choose>
+It g
+Sa ioe </xsl:choose>
+</table> </tr>
+</body>
+</htmi> </xsl:for-each>
+
+</xsl:template>
+
+</xsl:stylesheet>Valores - <xsl:chose—
+
+<xsl:for-each select="catalog/cd">
+<tr>
+<td><xsl:value-of select="title"/></td>
+<xsI:choose>
+ 
+ 
+
+: Syntax
+<xsl:when test="price > 10"> on
+<xsl:when test= expression >
+<td bg color="#ffOOff"> .. primera salida ...
+
+</xsl:when>
+
+<xsl:value-of select="artist"/></td>)  <stothenvise-
+</xsl:when> ig: [siterine>
+<xsl:otherwise>
+<td><xsl:value-of select="artist"/></td>
+</xsl:otherwise>
+</xsl:choose>
+</tr>
+
+</xsl:for-each>alores - <xXs
+
+MI COLECCION DE CDS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Titulo Artistas
+Empire Burlesque [Bob Dylan
+Hide your heart Bonnie Tyler
+Greatest Hits Dolly Parton
+Stil got the blues [Gary Moore
+Eros Eros Ramazzotti
+One night only BeeGees
+Syhvias Mother Dr. Hook
+Maggie May Rod Stewart
+ 
+
+When aman loves a woman
+
+Percy Sledge
+ 
+ 
+
+Black angel
+ 
+ 
+1999 Grammy Nominees
+ 
+
+1999 Grammy Nominees
+ 
+
+[For the good times
+
+Kenny Rogers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Big Wilke style Will Smith
+Tupelo Honey Van Morrison
+Soulsville Jorn Hoel
+The very best of Cat Stevens
+Stop Sam Brown
+Bridge of Spies T Pau
+Private Dancer Tina Turner
+IMidt om natten Kim Larsen
+ 
+
+(Pavarotti Gala Concert
+
+[Luciano Pavarotti
+ 
+ 
+ 
+ 
+The dock of the bay Otis Redding
+Picture book Simply Red
+
+Red The Communards
+(Unchain my heart Joe Cocker
+ 
+ 
+ 
+ 
+
+20
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:00:06 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+enna
+Dnata SC
+uu
+
+u
+
+POPPOPENTTRNTIRAIII)
+ 
+
+iu mires
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e ni al
+ 
+
+nA Ler
+TT =
+‘CTO eae
+aa
+“Shigiiveae oePara poner un condicional en el documento XML ,
+se agrega un elemento condicional <xsl:if>
+
+Sintaxis:
+
+<xsl:if test="expression">
+...da una Salida si la expresion es cierta...
+
+</xsl:if>Documento XML
+
+Que libros
+son del
+ado Valores - <xsl;
+
+   
+ 
+<?xml-version="1.0"-encoding="UTF-8"?>
+ki--Ejemplo:-PA11-01.xml—>
+<?xml-stylesheet-type="text/xsl"-href="PR1 1-001 xsl"? >
+E] <biblioteca>
+A] <libro>
+<titulo-idioma="es'">La-vida-esta-en otra -parte<fitulo>
+<autor>Milan-Kundera</autor>
+<fechaPublicacion-afio="1973'}>
+
+ <flibro>
+ 
+ 
+
+E] <libro>
+<titulo-idioma="es'"}Pantaleén-y-las-visitadoras4¢jtitulo>
+<autor>Mario Vargas Llosa</autor,
+
+acion-aino="1973'%>
+ 
+
+escritor Mario
+Vargas
+Llosa??
+ 
+ 
+ 
+ 
+ 
+
+17 | <titulo idiomases"Conversacién ene cotedral titulo
+18 | <autor>Mario-¥arga: 0 0
+
+19 | <fechaPublicacion-afio="1969"4>
+
+20 - <flibro>
+
+21 ©) <libro>
+
+22 | <titulo-idioma="en">Complete ‘Stories and Poems -of Edgar Allan Poe<ftitulo>
+23 | <autor>Edgar Allan Poe<jautor>
+
+24 | <fechaPublicacion-afio="1890'4>
+
+25 + <flibro>
+
+26 El <libro>
+
+2? | <titulo idioma="tr'>Les Miserables <ftitulo>
+
+26 | <autor>Victor Hugo<j/autor>
+
+29 | <fechaPublicacion-aiio="1862"}>
+
+30 | <flibro>
+
+31 2) <libro>
+
+32 | <titulo-idiama="es'>Plenilunio<#itulo>
+
+33° | <autor>Antonio-Mufioz-Molina</autor>
+
+34 | <fechaPublicacion-aiio="1997"4>
+
+35 > <flibro>
+
+36 | <fbiblioteca>Documento XLS
+ 
+
+<?xml -version=""1.0"-encoding="UTF-8'"'?>
+=| kxslistylesheet-version="1 .0"-xmlins:xsl="http)have.w3.org!] $999/435L/Transform™>
+=] <xslitemplate -match="/'>
+=| <html xmins="http:faww.w3.org/1 999/<html">
+El <head>
+<meta http-equiv="ContentType™-content="text{fhtml: chars et=iso-8859-1"}>
+<title>Listado-de libros ordenado alfabeticamente de Mario Vargas Llosa<ftitle>
++ <{{head>
+<body>
+<xslt for- each: select “Ybibliotecaflibro'’>
+ 
+ 
+ 
+ 
+ 
+
+    
+ 
+    
+<xshif-test="autor-= "Mario: a -Llosa"'>
+<xal: Value-of select="titulo'}> <br>
+
+  
+
+Ee amily
+
+<xsliif test="expression">
+L <fhtmi> ae E ;
+L <pesi:template> ...da una salida si la expresion es cierta...
+<ixslistylesheet> </xslif>Documento XHTML
+Conversacion en la catedral
+Pantaleon y las visitadorasTengo una documento creado en XML
+donde se refleja un catalogo de una
+coleccion de discos. Se indica el Titulo del
+disco/ Autor / Pais / Compania de discos /
+Precio / Ano de salida al mercado.ado Valores - <xs!
+wR soot ee ————
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLCopy-->
+<catalog>
+<cd>
+<title>Empire Burlesque</title>
+<artist>Bob Dylan</artist>
+<country>USA</country>
+<company>Columbia</company>
+<price>10.90</price>
+<year>1985</year>
+</ed>
+<cd>
+<title>Hide your heart</title>
+<artist>Bonnie Tyler</artist>
+<country>UK</country>
+<company>CBS Records</company>
+<price>9.90</price>
+<year>1988</year>
+</ed>
+<cd>
+<title>Greatest Hits</title>
+<artist>Dolly Parton</artist>
+<country>USA</country>
+<company>RCA</company>
+<price>9.90</price>
+<year>1982</year>
+
+</ed> SIGUE...... WW!SIGUE...... es muy
+largo!! s s
+<cd>
+<title>Red</title>
+<artist>The Communards</artist>
+<country>UK</country> |
+<company>London</company>
+<price>7.80</price> |
+<year>1987</year>
+</cd>
+<cd>
+<title>Unchain my heart</title>
+<artist>Joe Cocker</artist> |
+<country>USA</country> |
+<company>EMI</company> |
+<price>8.20</price> |
+<year>1987</year>
+</cd> |
+</catalog>Valores - <xs
+Quiero que me muestre en una tabla... el Titulo del
+album y los cantantes correspondiente que tengan un
+precio superior a10€
+MI COLECCION DE CDS
+
+Titulo Artistas
+Empire Burlesque Bob Dylan
+ 
+ 
+ 
+ 
+
+[sua got the blues [Gary Moore
+One night only Bee Gees
+Black angel Savage Rose
+ 
+
+1999 Grammy Nominees||ManyValores - <xs
+—S=S==
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Edited by XMLSpy® -->
+
+<xsl:stylesheet version="1.0"
+
+xmins:xsl="http://www.w3.org/1999/XSL/Transform">
+
+<xsl:template match="/">
+
+<tr bgcolor="#9
+<th>Titulo</th>
+<th>Artistas</th>
+
+X Or-Eeacn = atalod
+<xsl:if test="price>10">
+<tr>
+<td><xsl:value-of select="title"/></td>
+<td><xsl:value-of select="artist"/></td>
+</tr>
+</xslif>
+</xsl:for-each>
+| </table> |
+</body>
+</html>
+</xsl:template>
+</xsl:stylesheet>[One might only [Bee Gees
+Romanza Andrea Bocelli
+Savage Roselores - <xsl:c
+
+Cuando el precio de un disco sea mayor de 10€ ...
+colorea la celda de color ...
+
+MI COLECCION DE CDS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Titulo Artistas
+Empire Burlesque [Bob Dylan
+Hide your heart Bonnie Tyler
+Greatest Hits Dolly Parton
+Still got the blues [Gary Moore
+Eros Eros Ramazzotti
+One night only BeeGees
+Syivias Mother Dr. Hook
+Maggie May Rod Stewart
+When a man loves a woman|/Percy Sledge
+Black angel [Savage Rose
+1999 Grammy Nominees |WAS
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLCopy-->
+<catalog>
+<cd>
+<title>Empire Burlesque</title>
+<artist>Bob Dylan</artist>
+<country>USA</country>
+<company>Columbia</company>
+<price>10.90</price>
+<year>1985</year>
+</ed>
+<cd>
+<title>Hide your heart</title>
+<artist>Bonnie Tyler</artist>
+<country>UK</country>
+<company>CBS Records</company>
+<price>9.90</price>
+<year>1988</year>
+</cd>
+<cd>
+<title>Greatest Hits</title>
+<artist>Dolly Parton</artist>
+<country>USA</country>
+<company>RCA</company>
+<price>9.90</price>
+<year>1982</year>
+</ed>
+
+Nalores - <xsl:ch
+
+—=—_—
+
+SIGUE...... WW!SIGUE...... es muy largo!!!
+
+<cd>
+<title>Red</title>
+<artist>The Communards</artist>
+<country>UK</country> |
+<company>London</company>
+<price>7.80</price> |
+<year>1987</year>
+</cd>
+<cd>
+<title>Unchain my heart</title>
+<artist>Joe Cocker</artist> |
+<country>USA</country> |
+<company>EMI</company> |
+<price>8.20</price> |
+<year>1987</year>
+</cd> |
+</catalog>lores - <xsl:c
+El elemento <xsl:choose> se usa en conjunto con
+<xsl:when> y <xsl:otherwise> para expresar
+multiples condiciones
+
+Syntax
+<xsI:choose>
+<xsl:when test="expression">
+... primera salida ...
+</xsl:when>
+
+<xsl:otherwise>
+... Otra salida ....
+</xsl:otherwise>
+</xsl:choose> .Nalores - <xsl:ch
+
+WAS
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- Edited by XMLCopy--> XML
+<catalog>
+<cd>
+
+<title>Empire Burlesque</title>
+<artist>Bob Dylan</artist>
+<country>USA</country>
+<company>Columbia</company>
+<price>10.90</price>
+<year>1985</year>
+
+</ed>
+
+<cd>
+<title>Hide your heart</title>
+<artist>Bonnie Tyler</artist>
+<country>UK</country>
+<company>CBS Records</company>
+<price>9.90</price>
+<year>1988</year>
+
+</ed>
+
+<cd>
+<title>Greatest Hits</title>
+<artist>Dolly Parton</artist>
+<country>USA</country>
+<company>RCA</company>
+<price>9.90</price>
+<year>1982</year>
+
+</ed><cd>
+
+<title>Red</title>
+<artist>The Communards</artist>
+<country>UK</country>
+<company>London</company>
+<price>7.80</price>
+<year>1987</year>
+
+</cd>
+
+<cd>
+<title>Unchain my heart</title>
+<artist>Joe Cocker</artist>
+<country>USA</country>
+<company>EMI</company>
+<price>8.20</price>
+<year>1987</year>
+
+</cd>
+
+</catalog>- [<?xml version="1.0" encoding="ISO-8859-1"?>
+<xsl:stylesheet version="1.0"
+xmins:xsl="http://www.w3.org/1999/XSL/Transform">
+
+   
+
+<xsl:template match="/">
+<html>
+<body>
+<h2>My CD Collection</h2>
+<table border="1">
+<tr bgcolor="#9acd32">
+<th>Title</th>
+<th>Artist</th>
+</tr>
+
+. —W 1 "
+<xsl:for-each select="catalog/cd"> <xsl:when test= Rice e 10 C
+<tr> <td bgcolor="#ff00ff">
+
+<td><xsl:value-of select="title"/></td>
+<xsl:choose> <xsl:value-of select="artist"/></td>
+<xsl:when test="price > 10"> < . >
+<td bgcolor="#ffOOff'> /xsl:when
+<xsl:value-of select="artist"/></td> <xsl:otherwise>
+</xsl:when> ‘
+Sxal otherwise <td><xsl:value-of
+<td><xsl:value-of select="artist"/></td>
+</xsl:otherwise>
+</xs|:choose>
+It g
+Sa ioe </xsl:choose>
+</table> </tr>
+</body>
+</htmi> </xsl:for-each>
+
+</xsl:template>
+
+</xsl:stylesheet>Valores - <xsl:chose—
+
+<xsl:for-each select="catalog/cd">
+<tr>
+<td><xsl:value-of select="title"/></td>
+<xsI:choose>
+ 
+ 
+
+: Syntax
+<xsl:when test="price > 10"> on
+<xsl:when test= expression >
+<td bg color="#ffOOff"> .. primera salida ...
+
+</xsl:when>
+
+<xsl:value-of select="artist"/></td>)  <stothenvise-
+</xsl:when> ig: [siterine>
+<xsl:otherwise>
+<td><xsl:value-of select="artist"/></td>
+</xsl:otherwise>
+</xsl:choose>
+</tr>
+
+</xsl:for-each>alores - <xXs
+
+MI COLECCION DE CDS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Titulo Artistas
+Empire Burlesque [Bob Dylan
+Hide your heart Bonnie Tyler
+Greatest Hits Dolly Parton
+Stil got the blues [Gary Moore
+Eros Eros Ramazzotti
+One night only BeeGees
+Syhvias Mother Dr. Hook
+Maggie May Rod Stewart
+ 
+
+When aman loves a woman
+
+Percy Sledge
+ 
+ 
+
+Black angel
+ 
+ 
+1999 Grammy Nominees
+ 
+
+1999 Grammy Nominees
+ 
+
+[For the good times
+
+Kenny Rogers
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Big Wilke style Will Smith
+Tupelo Honey Van Morrison
+Soulsville Jorn Hoel
+The very best of Cat Stevens
+Stop Sam Brown
+Bridge of Spies T Pau
+Private Dancer Tina Turner
+IMidt om natten Kim Larsen
+ 
+
+(Pavarotti Gala Concert
+
+[Luciano Pavarotti
+ 
+ 
+ 
+ 
+The dock of the bay Otis Redding
+Picture book Simply Red
+
+Red The Communards
+(Unchain my heart Joe Cocker
+ 
+ 
+ 
+ 
+
+20
