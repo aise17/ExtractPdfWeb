@@ -90,7 +90,7 @@ class BusinessImagen():
         text = pytesseract.image_to_string(Image.open(filename))
 
         # y eliminamos la imagen temporal
-#        os.remove(filename)
+        os.remove(filename)
 
         return text
 
