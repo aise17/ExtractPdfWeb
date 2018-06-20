@@ -4,6 +4,7 @@ from .models import File
 
 class ArchivoSerializer(serializers.ModelSerializer):
 
+
     class Meta:
         model= File
         fields = "__all__"

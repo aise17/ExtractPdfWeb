@@ -1694,3 +1694,685 @@ Red The Communards
  
 
 20
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:12:41 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:14:23 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:15:24 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:16:25 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:20:41 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:21:30 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:22:26 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:27:44 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:27:52 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:28:19 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:29:04 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:29:52 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:30:00 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:30:40 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:35:12 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:40:10 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:40:30 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:
+
+
+-------------------------------------
+FECHA: Wed Jun 20 20:40:41 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 23:09:21 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Loco FACTURA
+
+Direccién Fecha 12/23/11
+Ciudad, Provincia 00000 Factura # 1111
+Teléfono: (00) 11.11 11 11 Para: ——N@ pedido
+
+Fax:(00) 1111 1112
+
+Factura para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cantidad Descripcién Precio unitario Importe
+
+1 Elemento numero 1 2,00€ 2,00€
+
+1 Elemento numero 2 2,00€ 2,00€
+
+1 Elemento numero 3 2,00 € 2,00€
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+0,00 €
+
+Subtotal 6,00 €
+Observaciones
+WA 1,26
+Total 7,26 €
+
+
+-------------------------------------
+FECHA: Wed Jun 20 23:15:14 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano rajoy
+34234d Datos del cliente
+moncloa Pedro sanchez
+53464566 654655as
+c/ Nuevo presidente
+54646456
+Descripcién producto/servicio IVA%
+lorndeamazon Tales ac
+
+Cascos granndes
+
+Observaciones Base imponible: 31,00
+
+IVA (21% ): 6,51
+
+TOTAL:

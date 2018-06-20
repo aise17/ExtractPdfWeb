@@ -34,13 +34,18 @@ class FileView(generics.ListCreateAPIView):
 
             nombre:str = file_serializer.data.get('documento').__str__()
             nombre = nombre.split('/')[-1]
-            print('************************************************************************************************')
-            print(nombre.split('/')[-1])
-            print('************************************************************************************************')
 
-            main(nombre, proceso="")
 
-            return Response(file_serializer.data, status=status.HTTP_201_CREATED)
+            text = main(nombre, proceso="")
+
+            file_serializer.data
+
+            salida = {
+                "documento" : file_serializer.data,
+                "salida" : text,
+            }
+
+            return Response(salida, status=status.HTTP_201_CREATED)
         else:
             return Response(file_serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
