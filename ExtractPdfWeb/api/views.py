@@ -12,7 +12,9 @@ from .models import File
 import sys
 sys.path.append("../orc")
 
-from barModule.LectorTextoEnImagenes import main
+#from barModule.LectorTextoEnImagenes import main
+
+from .tasks import orc
 
 
 class FileView(generics.ListCreateAPIView):
@@ -36,13 +38,15 @@ class FileView(generics.ListCreateAPIView):
             nombre = nombre.split('/')[-1]
 
 
-            text = main(nombre, proceso="")
+            text = orc.delay(nombre, proceso="")
+
+            text = text.get()
 
             file_serializer.data
 
             salida = {
                 "documento" : file_serializer.data,
-                "salida" : text,
+                "salida" : repr(text),
             }
 
             return Response(salida, status=status.HTTP_201_CREATED)
