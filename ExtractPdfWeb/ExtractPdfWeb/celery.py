@@ -5,7 +5,7 @@ from celery import Celery
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ExtractPdfWeb.settings')
 
-app = Celery('ExtractInfo', backend='rpc://', broker='pyamqp://')
+app = Celery('ExtractPdfWeb')
 
 app.config_from_object('django.conf:settings', namespace='CELERY')
 
