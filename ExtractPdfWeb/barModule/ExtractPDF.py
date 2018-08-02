@@ -16,7 +16,7 @@ from wand.image import Image as Img
 # cargamos un pdf y obtenemos una imagen png por cada hoja del pdf
 
 with Img(filename='input/factura1.pdf', resolution=300) as img:
-    img.compression_quality = 99
+    img.compression_quality = 50
     img.save(filename='output/image_name.jpg')
 
 

@@ -1,5 +1,5 @@
 billiard==3.5.0.4
-celery==4.2.0
+celery
 Django==2.0.6
 djangorestframework==3.8.2
 kombu==4.2.1
@@ -12,3 +12,4 @@ pytz==2018.4
 redis==2.10.6
 vine==1.1.4
 Wand==0.4.4
+psycopg2

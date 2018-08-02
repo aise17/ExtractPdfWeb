@@ -1,6 +1,6 @@
 
 from django.conf.urls import url
-from .views import FileView
+
 from .views import FileView
 
 

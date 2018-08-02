@@ -1,17 +1,10 @@
 
-version: '2'
+version: '3'
 
 services:
 
   db:
-    image: mysql
-    ports:
-      - "3306:3306"
-    environment:
-      MYSQL_ROOT_PASSWORD: swdzswdz
-      MYSQL_USER: sergio
-      MYSQL_PASSWORD: swdzswdz
-      MYSQL_DATABASE: Extractor-PDF
+    image: postgres
 
   redis:
     image: redis:latest
@@ -21,7 +14,7 @@ services:
 
   web:
     build: .
-    command: python manage.py runserver 0.0.0.0:8000
+    command: python ExtractPdfWeb/manage.py runserver 0.0.0.0:8000
     volumes:
       - .:/code
     ports:
@@ -30,14 +23,21 @@ services:
       - db
       - redis
       - worker
+    links:
+      - db
+      - redis
+
 
   # Celery worker
   worker:
     build:
       context: .
       dockerfile: Dockerfile
+    working_dir: /code/ExtractPdfWeb
     command: celery worker -A ExtractPdfWeb.celery --loglevel=info
     volumes:
       - .:/code
     links:
+      - redis
+    depends_on:
       - redis

@@ -25,7 +25,7 @@ SECRET_KEY = '9sjo85#hinba)4zoern^42*=1h4421i(it^r3b%ihu6sw8wap='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -76,14 +76,15 @@ WSGI_APPLICATION = 'ExtractPdfWeb.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
 
+
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'Extractor-PDF',
-        'USER': 'sergio',
-        'PASSWORD': 'swdzswdz',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'postgres',
+        'USER': 'postgres',
+        'HOST': 'db',
+        'PORT': 5432,
     }
 }
 
@@ -131,7 +132,7 @@ IMAGENES_PATH = './barModule/output/'
 MEDIA_ROOT = os.path.join(BASE_DIR, './barModule/input/')
 
 CELERY_BROKER_URL = 'redis://'+os.environ.get('REDIS_PORT_6379_TCP_ADDR', 'redis')+':6379'
-CELERY_RESULT_BACKEND = 'redis://localhost:6379'
+CELERY_RESULT_BACKEND = 'redis://redis:6379'
 CELERY_ACCEPT_CONTENT = ['application/json']
 CELERY_RESULT_SERIALIZER = 'json'
 CELERY_TASK_SERIALIZER = 'json'
