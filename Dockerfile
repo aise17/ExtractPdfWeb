@@ -14,6 +14,10 @@ RUN apt-get update
 
 RUN apt-get install -y tesseract-ocr
 
+RUN apt-get install -y imagemagick
+
+RUN apt-get install -y ghostscript
+
 ADD . /code/
 
 

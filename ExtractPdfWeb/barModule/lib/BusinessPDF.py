@@ -20,7 +20,7 @@ class BusinessPDF():
         print('*******************************************')
 
         with Img(filename= MEDIA_URL+ruta , resolution=150) as img:
-            img.compression_quality = 99
+            #img.compression_quality = 99
             img.save(filename=IMAGENES_PATH+'image_name.jpg')
 
 

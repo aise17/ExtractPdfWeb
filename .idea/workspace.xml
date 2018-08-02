@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335fc871-cdc5-42ae-b3d8-39e87fc761bb" name="Default" comment="ready but error to transform pdf to png">
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_1LLuoWi.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_2yAmOqg.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_7LgY6eb.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_7LgY6eb_lo8dnJV.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_8AyuBQm.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_EpFCCcZ.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_F0YZ43b.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_FxeGjyi.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_GJfCn9j.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_JpvfJ4X.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_JyR08vO.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_K6j92hg.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_KfKqO6b.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_Ks9oHhE.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_LR126Rp.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_TOHvyvy.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_VvpVNAs.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_WRt3ImL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_WuWCv0x.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_XuDAGWX.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_YdhxeLg.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_cqb1pVw.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_hsU00rY.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_iKJCD9L.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_iKJCD9L_zQcJhHb.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_jDYua7s.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_k877i7D.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_rbmV8K4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_rdpk4Sc.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_ucJPCuM.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_vA7jzZH.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_vihJweT.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_wjk9Pab.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_zjk2m4t.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura2_hvoe7S9.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura2_qOh4z8M.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,24 +26,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Dockerfile" value="94" />
-          <entry key="py" value="150" />
+          <entry key="Dockerfile" value="107" />
+          <entry key="py" value="157" />
           <entry key="txt" value="58" />
           <entry key="yml" value="302" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dockerfile" value="94" />
+          <entry key="Dockerfile" value="107" />
           <entry key="PLAIN_TEXT" value="58" />
-          <entry key="Python" value="150" />
+          <entry key="Python" value="157" />
           <entry key="YAML" value="302" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Dockerfile" value="1" />
-          <entry key="py" value="14" />
+          <entry key="py" value="15" />
           <entry key="txt" value="2" />
           <entry key="yml" value="1" />
         </counts>
@@ -85,7 +52,7 @@
         <counts>
           <entry key="Dockerfile" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="14" />
+          <entry key="Python" value="15" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -93,11 +60,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="270">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -111,11 +78,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="135">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -135,19 +114,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="312">
-              <caret line="40" column="48" lean-forward="true" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+              <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -210,11 +180,12 @@
         <option value="$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/api/urls.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/celery.py" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -246,12 +217,6 @@
               <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
               <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
               <item name="barModule" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,12 +225,6 @@
               <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
               <item name="barModule" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -347,9 +306,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16745655" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16745655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -360,7 +318,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297062" />
       <window_info anchor="bottom" id="Docker" order="7" weight="0.32900432" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5151515" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5151515" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.3298731" />
       <window_info anchor="bottom" id="Python Console" order="11" />
@@ -496,24 +454,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -523,7 +467,7 @@
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="40" column="48" lean-forward="true" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -546,8 +490,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        <state relative-caret-position="135">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
