@@ -3779,3 +3779,208 @@ Subtotal 6.00:
 N
 Observzclonas
 WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug  5 21:10:11 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccmn Foch: 12/23/11
+Ciudad, Provincia 00000 Fawn w
+Teléfon0:100) 11 11 11 11 Ha:
+Fax.IDD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+camldad DescrIpclm Preclo urmarlo Imports
+1 Elemenm numem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenm numem 3 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6.00:
+N
+Observzclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug  5 21:12:27 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccmn Foch: 12/23/11
+Ciudad, Provincia 00000 Fawn w
+Teléfon0:100) 11 11 11 11 Ha:
+Fax.IDD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+camldad DescrIpclm Preclo urmarlo Imports
+1 Elemenm numem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenm numem 3 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6.00:
+N
+Observzclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug  5 21:13:00 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccmn Foch: 12/23/11
+Ciudad, Provincia 00000 Fawn w
+Teléfon0:100) 11 11 11 11 Ha:
+Fax.IDD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+camldad DescrIpclm Preclo urmarlo Imports
+1 Elemenm numem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenm numem 3 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6.00:
+N
+Observzclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug  5 21:13:27 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccmn Foch: 12/23/11
+Ciudad, Provincia 00000 Fawn w
+Teléfon0:100) 11 11 11 11 Ha:
+Fax.IDD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+camldad DescrIpclm Preclo urmarlo Imports
+1 Elemenm numem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenm numem 3 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6.00:
+N
+Observzclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug  5 21:15:23 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccmn Foch: 12/23/11
+Ciudad, Provincia 00000 Fawn w
+Teléfon0:100) 11 11 11 11 Ha:
+Fax.IDD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+camldad DescrIpclm Preclo urmarlo Imports
+1 Elemenm numem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenm numem 3 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6.00:
+N
+Observzclonas
+WA 1,26

@@ -8,6 +8,8 @@ from rest_framework.response import Response
 from rest_framework import status
 from .serializers import ArchivoSerializer
 from .models import File
+from django.http import HttpResponse
+
 
 import sys
 sys.path.append("../orc")
@@ -45,7 +47,13 @@ class FileView(generics.ListCreateAPIView):
                 "salida" : repr(text),
             }
 
-            return Response(salida, status=status.HTTP_201_CREATED)
+            filename = nombre + '.txt'
+            content = text
+            response = HttpResponse(content, content_type='text/plain')
+            response['Content-Disposition'] = 'attachment; filename={0}'.format(filename)
+            return response
+
+            #return Response(salida, status=status.HTTP_201_CREATED)
         else:
             return Response(file_serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
