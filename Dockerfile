@@ -6,7 +6,7 @@ RUN mkdir /code
 
 WORKDIR /code
 
-ADD requirements.txt /code/
+ADD ExtractPdfWeb/config/requirements.txt /code/
 
 RUN pip install -r requirements.txt
 

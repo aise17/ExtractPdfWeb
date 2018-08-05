@@ -3355,3 +3355,345 @@ Subtotal 6.00:
 N
 Observzclonas
 WA 1,26
+
+
+-------------------------------------
+FECHA: Fri Aug  3 22:17:40 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccmn Foch: 12/23/11
+Ciudad, Provincia 00000 Fawn w
+Teléfon0:100) 11 11 11 11 Ha:
+Fax.IDD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+camldad DescrIpclm Preclo urmarlo Imports
+1 Elemenm numem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenm numem 3 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6.00:
+N
+Observzclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sat Aug  4 21:12:58 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccmn Foch: 12/23/11
+Ciudad, Provincia 00000 Fawn w
+Teléfon0:100) 11 11 11 11 Ha:
+Fax.IDD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+camldad DescrIpclm Preclo urmarlo Imports
+1 Elemenm numem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenm numem 3 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6.00:
+N
+Observzclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sat Aug  4 23:08:58 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccmn Foch: 12/23/11
+Ciudad, Provincia 00000 Fawn w
+Teléfon0:100) 11 11 11 11 Ha:
+Fax.IDD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+camldad DescrIpclm Preclo urmarlo Imports
+1 Elemenm numem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenm numem 3 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6.00:
+N
+Observzclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug  5 17:12:46 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+EJERCICIO MULTIPLE DE TABLAS - PRACTICA 2A
+
+Una Tabla an hTml viana mar-cada por- los aTiquaTas (Tabla (/Tablv. EnTr-a was dos aTiquaTas
+dafinir-arnos la Tabla, las caldas qua quar-amos, las columnas y los caracTar-lsTicas da cada uno da
+uTos par-arnaTr'os. Par'o vamos a arnpazar' axplicandoTa la aTiquaTa (Tablv.
+
+Ya harnos dicho qua aTa aTiquaTa nos indica qua ampiaza una Tabla, paro... épodarnos pr'adafinir'
+caracTar-isTicas da aa Tabla? Por- supuaTo qua sf. Una Tabla admiTa muchos paramaTr-os.
+NosoTr-os vamos a uplicar-Ta los principalu.
+
+La Tabla: <Tab|¢>
+
+Como ya ocur'r'a con la aTiquaTa body, a una Tabla También lo podarnos dafinir' al fondo da la
+misma. EsTo lo podarnos consaguir' con al paramaTr'o "bgcolor"', qua nos pondr'a un color- da
+fondo, 0 "background" par-a ponar' una imagan da fondo. Racuar'da quasi la imagan a mas
+paquaﬁa qua la Tabla, ’uTa sa r'apaTir'a TanTo a lo ancho como a lo largo.
+
+OTr'o aspacTo qua podarnos daflnir' da la Tabla 6 al borda. ﬁTo lo hararnos con al paramaTr'o
+"bor-dar"'. Como an Todas los paramaTr-os qua ya hamos visTo ucr-ibir-amos: bordar: "X" siando la
+x un numar'o. ﬁa nurnar'o indicar'a al grosor' dal borda. Si no ponarnos borda o lo acribimos "0",
+la Tabla no mosTr-ar'a borda ninguno. Por- supuuTo, Tarnbién podarnos darla color- al borda,
+ucribiando la aTiquaTa "bor'dar'color" a indicando al color- qua quar'amw par-a nuuTr'o borda.
+
+El paramaTr'o "widT " indircar'a la anchur'a da la Tabla. ﬁTa anchur'a la podarnos ponar' an pfxala
+(widTh: "300") 0 con porcaanja (widTh: "100'A").
+
+Dos paramaTr'os mas son callspacing (qua dafina al upacio anTr'a las caldas da la Tabla) y
+callpadding (qua la mar'ca a la Tabla al apacio qua daba dajar' alr'adador' dal TacTo danTr-o da
+una calda).
+
+Como ajamplo, ucr-ibir-amos al hipoTéTico supuwTo da quar-ar- una Tabla qua saa ancha al 100%,
+con un borda azul da un pfxal da grosor' y con un callpadding da 10 y con un callspacing da 10. El
+codigo quadar'fa da la siguianTa for-ma.
+
+(Tabla widTh="100'A" bordar':"1" bordar'color':"#OOOOFF" callspacing="10"
+callpadding:"10"></Tablv
+
+Una vaz axplicadas las Tablas, vamos a uplicar-Ta las par-Ta fundamanTala: da los mismas.
+Los filas: <Tr>
+
+Como harnos visTo an al ancabazado las filas sa acriban gracias alas aTiquaTas (Tr-> consu
+cor-rupondianTa ciar'r'a (/Tr'>. El conTanido da las columnas qua uTan :1me da la fila lo
+podarnos alfnaar' TanTo horizonTal como var-TicalrnanTa.
+Practice 2A do HTML 1Par'a alinear'lo verticalmente utilizar'ernos el atr'ibuto "valign" para poder' alinear'lo ar'r'iba de la
+celda ("top"), en el centr'o ("middle") 0 debajo ("bottom").
+
+Par'a alinear'lo horizontalmente utilizar'ernos el atributo "align". Con ate atr'ibuto padrernos
+alinear' el contenido de las celdas en el centr'o ("center‘"), a la izquier'da ("left"), a la derecha
+("right") 0 justificado ("justify").
+
+Por- supuuto alas files también la podemos definir' el color- de fondo ("bgcolor") y el color- del
+borde ("border-color").
+
+Las celdas <td>
+
+Las celdas que van :1th de cada fila las tenemos que acribirlas con la etiqueta (td> y su
+cor-rupondiente cler'r'e (/td>.
+
+Al igual que en las filas, en las celdas podemos definir' la alineacién del contenido que uta
+54th con los atributos "valign" y "align".
+
+Las celdas pween unos atributos que nos ayudan a matter agr'upar' tantas celdas o tantas
+columnas coma indiquemos en él. Para agrupar- celdas utilizar-lamos el atributo "colspan" y para
+agr'upar' celdas el atr'ibuto "mwspan".
+
+Por- ejernplo, para agr'upar' en una celda 2 columnas tenemos que acribir: (td colspan="2"></td>.
+Y par-a agr'upar' dos files, la indicaciénser'fa la siguiente: (td mwspan: "2"></td>.
+
+Las celdas <th>
+
+Las celdas ucr-itas con la etiqueta (th> y su corrapondiente cier-r-e, admiten los mismos
+atr-ibutm que las etiquetas (td> y funcionan de la misma for-ma, salvo que el contenido que ate
+:1th de una etiqueta (th> uta considerado como el encabezado de la tabla, por- lo que se
+cr'ear'a en negr'ita y centr'ado sin que nosotr'os se lo indiquernos.
+
+A continuacién vamos a poner'te un pequeﬁo ejernplo de una tabla que combina todas las cosas
+que hernos ido viendo en el artfculo. &tﬁdiate primer-o el cédigo, visualiza cémo quedar-fa la
+tabla y luego mfrala en el enlace siguiente: Ejernplo de tabla.
+ 
+<tnble width="100%" border="1"
+cellpadding=" " cellspacing=‘0
+bordercolor="#000000">
+(tr)
+
+<th>Encnbezndo l</th>
+<th>Encnbezndo 2</th>
+<th>Encabezndo 3</th>
+</tr>
+
+(tr)
+
+<td rowspan="2" valign="middle"
+nlign="|eft">Este texto esté nlineado nl 
+ 
+ 
+ 
+Practice 2A do HTML 2centro
+
+verticalmente y a In izquierdn
+horizontnlmente<Itd>
+<td>&nbsp:</td>
+<td>&nbsp:</td>
+
+</tr>
+
+(11-)
+
+dd colspnn="2">&nbsp: </td>
+</tr>
+
+</table>
+ 
+ 
+
+mum-nu: anmmmul
+ 
+adaalctr‘xmmxcumrnln ula
+ 
+ 
+Atributo unwrap
+
+nowr'ap a un atr'ibuto que le podernos colocar' a la etiqueta de la celda y que obligar'a al
+navegador' a no r'ol'nper 6a llnea, 0 sea, a no hacer' ningﬁn salto de llnea. Con ate atr'ibuto en la
+celda, el navegador' no rupeta el ancho predefinido de la tabla, 5i a que lo hubier'a, y rupeta
+el ancho de la frose, ya que no puede partirla.
+
+Por- tanto, si la frase a mas larga que el ancho definido de la tabla, ’uta 5e utir'ar'a todo lo
+necuario para alber'gar' la frase sin saltos de linea. El siguiente codigo rm mostr'ar'a cémo
+ucribir' ate atr'ibuto en la etiqueta de la celda:
+   
+
+<table widt 00" border=' ellpadding="10"
+cellspacing="0" bordercolor="#000000">
+
+<tr>
+
+<td nowrap>Aunque este texto sea m&aacute;s
+ancho que Ios 400 p&iacute;xeles
+
+de la tabla, &eacute;sta no puede dividir
+mediante saltos de |&iacute;nea
+
+el contenido de la misma, por lo que se estira
+para albergartoda Ia frase.</td>
+
+</tr>
+
+</table>
+ 
+ 
+
+Y a continuacién podernos ver' el efecto del atributo:
+
+Aunque ate texto sea rnés ancho que los 400 pfxela de la tabla, ’uta no puede dividir-
+
+mediante saltos de linea el contenido de la misma, por' lo que se utir'a par-a alber'gar' toda la
+fr'ase.
+ 
+
+Practice 2A do HTML 3Eﬁquefa “caption"
+
+ﬁ’ra eﬁque’ra sir-v9. para poder' poner'le un ﬁ’rulo o encabezado a la 1abla.Puedu poder' el
+
+poner'lo ar'r'iba y "align=bo1’forn" par'a poner'lo abajo.
+
+En el siguien’re ejernplo se ha puu’m abajo.
+ 
+ 
+
+(table width="50%" border:
+align="center“ cellpadding
+cellspacing="0" border-cola "#000000">
+<caption nlign="boﬂom">Encabezado de la
+tabla.</capﬁon>
+
+<11»
+
+<td align="center-">Tablita dz ejemplo para
+la etiqueta "caption“dtd)
+
+</tr>
+
+</Tnble> 
+ 
+ 
+
+encabezado ar'r'iba o abajo, dénde fu prefier'as, median’re la e’rique’ra "align
+
+align=1op" par-a
+
+Tablita de Earn 10 am la eri-ue'ra “ca tion"
+
+Encabezado de la tabla,
+ 
+
+Practice 2A do HTML' EJERCICIOS PRAC'I'ICA 2A - TABLAS
+
+Cree um (mica ggim HTML ( PR2A_Tab|as.h1-ml), donde es‘i'én
+ls siguieni'es 12 tables"... Sill HG leidn bieni..12!.
+
+Sabre coda una de ells coloque un encabezadn (En uzul) we
+enumere las tabla: —>
+Infeni'e hmerlo sin mirar ...... la respues‘i'a al final.
+
+   
+ 
+Practice 2A do HTML 5(Saharan d9 Titllln 1 Cahacara in Tituln 2 Cnhacara lie Titliln 3
+Calda 1 Celda 2 Celda 3
+Celda 5
+ 
+
+Practice 2A do HTML 6

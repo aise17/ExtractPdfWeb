@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="335fc871-cdc5-42ae-b3d8-39e87fc761bb" name="Default" comment="ready but error to transform pdf to png">
+    <list default="true" id="335fc871-cdc5-42ae-b3d8-39e87fc761bb" name="Default" comment="api ready">
+      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/config/nginx/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/salida.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/salida.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/config/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/psycopg2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/psycopg2/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/psycopg2/_psycopg.cpython-36m-x86_64-linux-gnu.so" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.6/site-packages/psycopg2/_psycopg.cpython-36m-x86_64-linux-gnu.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,83 +29,65 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Dockerfile" value="107" />
-          <entry key="py" value="157" />
-          <entry key="txt" value="58" />
-          <entry key="yml" value="302" />
+          <entry key="Dockerfile" value="147" />
+          <entry key="conf" value="138" />
+          <entry key="py" value="266" />
+          <entry key="txt" value="76" />
+          <entry key="yml" value="589" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dockerfile" value="107" />
-          <entry key="PLAIN_TEXT" value="58" />
-          <entry key="Python" value="157" />
-          <entry key="YAML" value="302" />
+          <entry key="Dockerfile" value="147" />
+          <entry key="PLAIN_TEXT" value="214" />
+          <entry key="Python" value="266" />
+          <entry key="YAML" value="589" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="Dockerfile" value="1" />
-          <entry key="py" value="15" />
-          <entry key="txt" value="2" />
-          <entry key="yml" value="1" />
+          <entry key="Dockerfile" value="2" />
+          <entry key="conf" value="1" />
+          <entry key="py" value="22" />
+          <entry key="txt" value="6" />
+          <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Dockerfile" value="1" />
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="15" />
-          <entry key="YAML" value="1" />
+          <entry key="Dockerfile" value="2" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="22" />
+          <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/config/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+            <state relative-caret-position="210">
+              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/salida.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1178">
+              <caret line="3561" lean-forward="true" selection-start-line="3561" selection-end-line="3561" />
             </state>
           </provider>
         </entry>
@@ -102,22 +95,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#26#82#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/serializers.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/salida.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3247" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
+            <state relative-caret-position="135">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -125,33 +132,42 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessImagen.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#647#688#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/celery.py">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-              <folding>
-                <element signature="e#0#56#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/LectorTextoEnImagenes.py">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180" />
+            <state relative-caret-position="405">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -176,23 +192,26 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/api/urls.py" />
-        <option value="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py" />
-        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/celery.py" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/salida.txt" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/urls.py" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="364" />
+    <option name="x" value="51" />
     <option name="y" value="27" />
-    <option name="width" value="1479" />
+    <option name="width" value="960" />
     <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
@@ -217,14 +236,32 @@
               <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
               <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="barModule" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
               <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
               <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="barModule" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="nginx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,7 +273,12 @@
     <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ExtractPdfWeb/api" />
+      <recent name="$PROJECT_DIR$/ExtractPdfWeb" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ExtractPdfWeb/config" />
       <recent name="$PROJECT_DIR$/ExtractPdfWeb/api" />
       <recent name="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb" />
     </key>
@@ -292,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533243784828</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="api ready">
+      <created>1533247203841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533247203841</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -317,10 +366,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297062" />
-      <window_info anchor="bottom" id="Docker" order="7" weight="0.32900432" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5151515" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3298731" />
+      <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.4997367" weight="0.32900432" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49815693" visible="true" weight="0.34848484" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5018431" side_tool="true" weight="0.34848484" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49921012" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -353,7 +402,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Celery worcking orc" />
     <MESSAGE value="ready but error to transform pdf to png" />
-    <option name="LAST_COMMIT_MESSAGE" value="ready but error to transform pdf to png" />
+    <MESSAGE value="api ready" />
+    <option name="LAST_COMMIT_MESSAGE" value="api ready" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/__init__.py">
@@ -384,33 +434,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/salida.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32100">
-          <caret line="2140" column="8" selection-start-line="2140" selection-start-column="8" selection-end-line="2140" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/manage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/models.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="57" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="57" />
-          <folding>
-            <element signature="e#1#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -420,10 +447,104 @@
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/celery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessImagen.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/LectorTextoEnImagenes.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt" />
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/config/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#26#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/salida.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3247" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/salida.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="3561" lean-forward="true" selection-start-line="3561" selection-end-line="3561" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#647#688#0" expanded="true" />
           </folding>
@@ -432,90 +553,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1866">
-          <caret line="131" column="48" selection-start-line="131" selection-start-column="39" selection-end-line="131" selection-end-column="48" />
+        <state relative-caret-position="405">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/celery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/serializers.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="40" column="48" selection-start-line="40" selection-start-column="48" selection-end-line="40" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessImagen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/LectorTextoEnImagenes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="165">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

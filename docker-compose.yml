@@ -2,6 +2,18 @@
 version: '3'
 
 services:
+  nginx:
+    image: nginx:latest
+    ports:
+      - "80:8000"   # I like working on 80 since you don't need to specify and looking neat on URL
+
+    volumes:
+      - .:/code
+      - ./ExtractPdfWeb/config/nginx:/etc/nginx/conf.d
+      - ./ExtractPdfWeb/static:/static
+    depends_on:
+      - web
+
 
   db:
     image: postgres
@@ -12,11 +24,14 @@ services:
     ports:
      - '6379:6379'
 
+
   web:
     build: .
-    command: python ExtractPdfWeb/manage.py runserver 0.0.0.0:8000
+    command: bash -c "cd ExtractPdfWeb && python manage.py makemigrations && python manage.py migrate && gunicorn ExtractPdfWeb.wsgi -b 0.0.0.0:8000"     #production mode
+    #command: bash -c "cd ExtractPdfWeb && python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"  # develop mode
     volumes:
       - .:/code
+      - ./ExtractPdfWeb/static:/static
     ports:
       - "8000:8000"
     depends_on:
@@ -26,7 +41,6 @@ services:
     links:
       - db
       - redis
-
 
   # Celery worker
   worker:
@@ -41,3 +55,7 @@ services:
       - redis
     depends_on:
       - redis
+
+
+
+

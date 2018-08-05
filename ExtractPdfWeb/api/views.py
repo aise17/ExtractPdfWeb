@@ -20,10 +20,6 @@ from .tasks import orc
 class FileView(generics.ListCreateAPIView):
 
 
-
-
-
-
     queryset = File.objects.all()
     serializer_class = ArchivoSerializer
 
