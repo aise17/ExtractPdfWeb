@@ -3984,3 +3984,499 @@ Subtotal 6.00:
 N
 Observzclonas
 WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug  5 21:28:16 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+PRACTICAz HTML
+Tablas
+ 
+L05 Tablas son cuadriculas que uno area per ejem F0 para colocar m homr'io escolur 0 un
+modelo de facmm o mambo.
+
+Lns tablas 3?, crew com k1 ehquam <TABLE/ par-n uldwmr dondz camlanzn y dTABLE» pom
+mdmr donde Tel‘mmu‘
+Lua' tablus se cunstmyen zspecrfrmndq ﬁlm G Wu, 6.! cumemdo dz Cﬂdﬂ celdn medmme la:-
+Eﬂque‘rusfl'b. y “/sz Para cambqor d2 filu warms u eﬁquzm (TRI.
+
+Empezaremos per una tabla sencilla. . ..
+Tabla simple 2 x 2
+
+1M
+31
+
+<tab1e border)
+
+<tr> <td>1</td> <td>2</td> </tr>
+<tr> <td>3</td> <td>4</td> </tr>
+</tab1e>
+ 
+ 
+
+Otra tabla 2 x 2
+E:
+
+3 La celda se expands
+7 pam ajustarse
+<tab1e border)
+
+<tr> <td>1</td> <td>2</td><tr>
+
+<tr> <td>3</td> <td>La celda se expande<br> para ajustarse</td> </tr>
+</tab1e>
+Pmctica 2 do HTML 1Continuamos con otras tablas.
+<HTML)
+
+‘HEAD"
+
+<1TTLE>Ejemplo 7c/TI TLE‘:
+
+MHEAD;
+
+(BODY,
+
+«HI ALIGNzCENTER'Homrio Escobmth
+
+<TABLE;
+
+<TD>Horm,t'Tl)»maLunadTDnTmMiérno‘aadTl);<TD;\/I amasdTD;
+<TR>
+
+:TD>8-IO<ITDM mum maiéndTDxTD/Namct o’m/TDMTD’CompuTGCIém/Tm
+(FR)
+
+<TD>10712<iTD>< TD>KumTe</TD)< TDXamTa/T‘DMTD/Nu mcidm/Tm
+<TR>
+
+<TD>12 rim/Tl)» TDzinglésdTDnTDzCompu tucio’n«/TD><TD>Kamfe</TD>
+<TR/
+
+<TDal446<iTD>< Tbﬂompumc \o’m/TDM‘I‘D‘IIngFésdTDM TD/Imgiém/TD;
+JTABLE;
+
+4' Bomb
+d'HTML;
+
+Se debe ver asI'....
+Hurario Escolar
+
+Elam Luna Minolta Timmy
+B-iﬂ Namnén Nammin Poamummu
+Iu—l: liar-n: Karrie Name"
+
+I 2711 [@112 Cmnwlmdn Karma
+
+H4 ti C'Mlumumﬁn lngics Inxlhi
+ 
+
+Pmctica 2 do HTMLVemos qua El nues‘rm mbla le falm alga de decomcwén Las siguiemes afribums pueden
+uyudur‘nos‘
+
+<TABLE ALIGN=“AI\ neacm’n" ESCOLOR=“C0|ur dz Fonda” BORDER=“Burd2"
+
+BORDERCOLOKTOiUr‘ d2 Burde" CELLPADDING=“Mm~géH InTEr‘iUr‘"
+
+CELLSPACING:“Espacio Emra Ce‘das” WIDTHﬂAncho" > y <ITABLE>
+"Almeoclén" determlnu la uhneucldn de la 10!:‘5: (LEFT, CENTER 0 RIGHU. “Co‘or d6
+Panda“ dmar'mnm 2| Color dzl funds de. la tabla “Borde” dztermmcl El unchu de‘ horde
+extel‘wor de la tabla. "Color de Burde" as 2| co‘or de todas \us iineus de la 1ublu‘
+“Morgen \mar-ior‘" Indcu El Morgen 2mm zl boy-dz dz ‘0 ca‘day 2‘ camamdu dz In ad ch
+“Espacm Emma Celdus" indicu Ia sapnmcién en’rrz Ias celdﬂs y WIDTH es 6| umho de
+TDdA m Tabla en porcenszi donde 100% 2:: 2| ancho d2 mda \A pdgwm
+
+SALVALO CO MO PR2_A. HTM L
+
+<HTML1
+<HEAD)
+<T[TLE>EszpIo SdTITLB
+
+4/HEAD;
+
+4BODY)
+
+‘Hl ALIEI‘JztEI‘JTERkF-iomrio Escolum/Hl;
+
+<TABLE ALIGN:CENTER BSCOLOR:LIGHTVELLOW BORDER:12 BORDERCOLOR:BLUE widTh:90%;
+<TD>Hom</TD><TD;LunesA/TDAHD‘IM1érculesdTDxTD'IViar‘ney/Tb;
+
+(TR;
+<TD>EJOMTD><TD>NCLmcléndTDnTDNammdun/TDu'ﬂ)£nmpu‘rnCld|\</TD,
+4TB;
+
+<TD>10712</TD>ITD;KaruTe</TD><1D>Kumfexf1DM1D>Namclime/TD;
+
+<TR:
+<TD2127144/TDuTD)Ing\ésa/Tl)e<Tb2€umpuTuudm/TDHszKame/TD’
+(FR;
+4TD;14716¢/TDHTDIComumaﬁndTDxTDJng‘éy/TDHTD‘JngIésx/Tb
+4/TABLE/
+
+01m modelo del homrm esca‘ar:
+
+<TABLE ALIGN:CENTER BORDER CELLPADDDJ&10 CELLSPACINSQO BORDERCOLOR:RED>
+<TDEHOM<f1D2<TDiLUI125<fTDHmiMléFCOIBS<ITD><TD>ViBr‘neSK/TD'
+
+<TR;
+<TD>B-IO4/TD»<‘I‘D;NLLTucléndTDnTDNmuclénz/Tbu‘l‘biompuﬂuclo‘Iu/TD,
+4TB;
+
+<TD210-124/TDNTD>KClmT€4/TD><1D»Kumi‘BI/11)14TD>NQTECIérll/TDi
+
+<TR;
+<TD>12714</TD,<TD>Ing\éa'</'ID><TD>CompLImmém/TDxTDXamTM/Tb,
+<TR;
+<TD>14716</TDI<TD'zCarrpumcm'ng/TDATDJng‘z’y/TbxTD>Inglés<lTb>
+JTABLE,
+
+(IBODY;
+
+4/HTML»
+Pmctica 2 do HTML 3Todavfu podemos mejomr’ la mbla
+Horatio Esmlar
+
+I? H '19:an
+
+|'_ ' kw '
+|:2 14 jug"
+
+lu» 1i C aqmlclm
+ 
+ 
+ 
+ 
+ 
+
+‘ m may. 1" Nix-w 5mg
+hm; MANN“ me
+ 
+
+Hm y... -‘ mm...m.
+   
+ 
+Hum u ‘
+|_, :4 I 1.3;.» fang/Luna‘s 1:“.
+H :e -_'=m;mm 5.5:: mg: ‘
+ 
+ 
+
+(TH ALIerl:“Alineaci6n“ BGCOLOR:“Co|or d2 Fonda" COLSPAN:“Corrbmar Columns“
+
+ROWSPANzTombimr‘FI Ins“ VALIGN:“A|H1eacm'n VerTi cal"> y c/TH)
+szina Ins cabecer‘as dz las calumnus “Almenclén” a” In ulinzacldn horizontal
+dzm‘m dz lu caldu, puzdz szr LEI-T, CENTER RIGHTi JUS'ITP/ u DECIMAL.
+“Color de Fonda“ 1?: el cufor dz funda dichu czlda. "Cﬂmbwmr Calumnas" Indlcu
+cunning“ Leldns harizomaies SE. van a unir. “Combinar' ﬁlas" indicu cmn’ms caldus
+vzrﬁculas 5?. Wm H unir. "Alinzucidn Vertical" dzfe r'minu In orienmciﬁn verﬁ ml
+dzmm dz In celdu, puedeser‘ BOTTOM, CENTER TOP 0 BASELINE.
+
+<TD ALIGN:“AHH60CID'H“ BSCOLOR=“C0|M dz Fonda” COLSPAN="C0mb< nar Cuiumnus“
+
+ROWSPAN:“Combimr‘Fi I115" VALIEN:“AHnwcidn Verﬁcal">y 4Tb;
+
+Define um celda de la tabla. La descrIpCIdn dz I05 mnbums sen iguulas a la
+Eﬁquﬂu CINTENCIr'.
+Pmctica 2 do HTML 4SALVALO COMO PR2_B. HTM L
+
+«HTML;
+
+(HEAL),
+
+<UTLE2EJemplo 9<ITI TLE)
+
+4/HEAD,
+
+«BODY:
+
+«H1 ALIéNzCEMTER’Homr‘Iu EscuhM/Hh
+
+«TABLE ALIA9N:CENTER BORDER:4 CELLPADDIMSJO CELLSPACINE:20 BORDERCOLOR:PURPLB
+‘TH BGCOLOR=VELLOWIHom<ITHn1H>Lunas<I TH>< TH>Mi ércolzs<lTszTH>Vi away/TH,
+
+‘TR»
+
+4TD>B-lO</TDN TD ALI6N=CENTER COLSPAN: 2>Nu1ucién4TDKTDrCDmpuTuc \ (ﬁlm/TD)
+
+(TR)
+
+tTDrlOJZdTDx TD>Karme<lTDN TD)KﬂmTE‘/T!JKTD’NCI Tnciém/TD»
+
+(TR)
+
+4TD>12 -I4</TD>< TD>Inglés<lTD2
+
+4T!) ALISN=CENTER ROWSPAN=2 VALIGN=TOPICumpuTacIdn<bme<bm ImglésdTDxTDAKumTw/TD’
+(TR)
+
+JDrléLIﬁdTDx TD>Cnmpu rec i dn<lTDnTD>Inglés</‘Fb>
+
+(/TABLB
+
+t/BODV;
+
+t/HTML}
+
+E! rasulmdu 2.5
+
+Hut-aria I'qular
+
+v‘ .4-‘vmw x':
+
+Indr-
+
+Dal-urn. I
+RECUERDA m HACIENDO TU RESUMEN DE LAS ETIQUETAS HTM QUE
+SE ESTA VIENDO
+
+N0 ESPERES AL FINAL!!!
+Pmctica 2 do HTML 5
+
+
+-------------------------------------
+FECHA: Sun Aug  5 21:34:57 2018  ESCALA DE GRISES: 
+-------------------------------------
+
+
+PRACTICAz HTML
+Tablas
+ 
+L05 Tablas son cuadriculas que uno area per ejem F0 para colocar m homr'io escolur 0 un
+modelo de facmm o mambo.
+
+Lns tablas 3?, crew com k1 ehquam <TABLE/ par-n uldwmr dondz camlanzn y dTABLE» pom
+mdmr donde Tel‘mmu‘
+Lua' tablus se cunstmyen zspecrfrmndq ﬁlm G Wu, 6.! cumemdo dz Cﬂdﬂ celdn medmme la:-
+Eﬂque‘rusfl'b. y “/sz Para cambqor d2 filu warms u eﬁquzm (TRI.
+
+Empezaremos per una tabla sencilla. . ..
+Tabla simple 2 x 2
+
+1M
+31
+
+<tab1e border)
+
+<tr> <td>1</td> <td>2</td> </tr>
+<tr> <td>3</td> <td>4</td> </tr>
+</tab1e>
+ 
+ 
+
+Otra tabla 2 x 2
+E:
+
+3 La celda se expands
+7 pam ajustarse
+<tab1e border)
+
+<tr> <td>1</td> <td>2</td><tr>
+
+<tr> <td>3</td> <td>La celda se expande<br> para ajustarse</td> </tr>
+</tab1e>
+Pmctica 2 do HTML 1Continuamos con otras tablas.
+<HTML)
+
+‘HEAD"
+
+<1TTLE>Ejemplo 7c/TI TLE‘:
+
+MHEAD;
+
+(BODY,
+
+«HI ALIGNzCENTER'Homrio Escobmth
+
+<TABLE;
+
+<TD>Horm,t'Tl)»maLunadTDnTmMiérno‘aadTl);<TD;\/I amasdTD;
+<TR>
+
+:TD>8-IO<ITDM mum maiéndTDxTD/Namct o’m/TDMTD’CompuTGCIém/Tm
+(FR)
+
+<TD>10712<iTD>< TD>KumTe</TD)< TDXamTa/T‘DMTD/Nu mcidm/Tm
+<TR>
+
+<TD>12 rim/Tl)» TDzinglésdTDnTDzCompu tucio’n«/TD><TD>Kamfe</TD>
+<TR/
+
+<TDal446<iTD>< Tbﬂompumc \o’m/TDM‘I‘D‘IIngFésdTDM TD/Imgiém/TD;
+JTABLE;
+
+4' Bomb
+d'HTML;
+
+Se debe ver asI'....
+Hurario Escolar
+
+Elam Luna Minolta Timmy
+B-iﬂ Namnén Nammin Poamummu
+Iu—l: liar-n: Karrie Name"
+
+I 2711 [@112 Cmnwlmdn Karma
+
+H4 ti C'Mlumumﬁn lngics Inxlhi
+ 
+
+Pmctica 2 do HTMLVemos qua El nues‘rm mbla le falm alga de decomcwén Las siguiemes afribums pueden
+uyudur‘nos‘
+
+<TABLE ALIGN=“AI\ neacm’n" ESCOLOR=“C0|ur dz Fonda” BORDER=“Burd2"
+
+BORDERCOLOKTOiUr‘ d2 Burde" CELLPADDING=“Mm~géH InTEr‘iUr‘"
+
+CELLSPACING:“Espacio Emra Ce‘das” WIDTHﬂAncho" > y <ITABLE>
+"Almeoclén" determlnu la uhneucldn de la 10!:‘5: (LEFT, CENTER 0 RIGHU. “Co‘or d6
+Panda“ dmar'mnm 2| Color dzl funds de. la tabla “Borde” dztermmcl El unchu de‘ horde
+extel‘wor de la tabla. "Color de Burde" as 2| co‘or de todas \us iineus de la 1ublu‘
+“Morgen \mar-ior‘" Indcu El Morgen 2mm zl boy-dz dz ‘0 ca‘day 2‘ camamdu dz In ad ch
+“Espacm Emma Celdus" indicu Ia sapnmcién en’rrz Ias celdﬂs y WIDTH es 6| umho de
+TDdA m Tabla en porcenszi donde 100% 2:: 2| ancho d2 mda \A pdgwm
+
+SALVALO CO MO PR2_A. HTM L
+
+<HTML1
+<HEAD)
+<T[TLE>EszpIo SdTITLB
+
+4/HEAD;
+
+4BODY)
+
+‘Hl ALIEI‘JztEI‘JTERkF-iomrio Escolum/Hl;
+
+<TABLE ALIGN:CENTER BSCOLOR:LIGHTVELLOW BORDER:12 BORDERCOLOR:BLUE widTh:90%;
+<TD>Hom</TD><TD;LunesA/TDAHD‘IM1érculesdTDxTD'IViar‘ney/Tb;
+
+(TR;
+<TD>EJOMTD><TD>NCLmcléndTDnTDNammdun/TDu'ﬂ)£nmpu‘rnCld|\</TD,
+4TB;
+
+<TD>10712</TD>ITD;KaruTe</TD><1D>Kumfexf1DM1D>Namclime/TD;
+
+<TR:
+<TD2127144/TDuTD)Ing\ésa/Tl)e<Tb2€umpuTuudm/TDHszKame/TD’
+(FR;
+4TD;14716¢/TDHTDIComumaﬁndTDxTDJng‘éy/TDHTD‘JngIésx/Tb
+4/TABLE/
+
+01m modelo del homrm esca‘ar:
+
+<TABLE ALIGN:CENTER BORDER CELLPADDDJ&10 CELLSPACINSQO BORDERCOLOR:RED>
+<TDEHOM<f1D2<TDiLUI125<fTDHmiMléFCOIBS<ITD><TD>ViBr‘neSK/TD'
+
+<TR;
+<TD>B-IO4/TD»<‘I‘D;NLLTucléndTDnTDNmuclénz/Tbu‘l‘biompuﬂuclo‘Iu/TD,
+4TB;
+
+<TD210-124/TDNTD>KClmT€4/TD><1D»Kumi‘BI/11)14TD>NQTECIérll/TDi
+
+<TR;
+<TD>12714</TD,<TD>Ing\éa'</'ID><TD>CompLImmém/TDxTDXamTM/Tb,
+<TR;
+<TD>14716</TDI<TD'zCarrpumcm'ng/TDATDJng‘z’y/TbxTD>Inglés<lTb>
+JTABLE,
+
+(IBODY;
+
+4/HTML»
+Pmctica 2 do HTML 3Todavfu podemos mejomr’ la mbla
+Horatio Esmlar
+
+I? H '19:an
+
+|'_ ' kw '
+|:2 14 jug"
+
+lu» 1i C aqmlclm
+ 
+ 
+ 
+ 
+ 
+
+‘ m may. 1" Nix-w 5mg
+hm; MANN“ me
+ 
+
+Hm y... -‘ mm...m.
+   
+ 
+Hum u ‘
+|_, :4 I 1.3;.» fang/Luna‘s 1:“.
+H :e -_'=m;mm 5.5:: mg: ‘
+ 
+ 
+
+(TH ALIerl:“Alineaci6n“ BGCOLOR:“Co|or d2 Fonda" COLSPAN:“Corrbmar Columns“
+
+ROWSPANzTombimr‘FI Ins“ VALIGN:“A|H1eacm'n VerTi cal"> y c/TH)
+szina Ins cabecer‘as dz las calumnus “Almenclén” a” In ulinzacldn horizontal
+dzm‘m dz lu caldu, puzdz szr LEI-T, CENTER RIGHTi JUS'ITP/ u DECIMAL.
+“Color de Fonda“ 1?: el cufor dz funda dichu czlda. "Cﬂmbwmr Calumnas" Indlcu
+cunning“ Leldns harizomaies SE. van a unir. “Combinar' ﬁlas" indicu cmn’ms caldus
+vzrﬁculas 5?. Wm H unir. "Alinzucidn Vertical" dzfe r'minu In orienmciﬁn verﬁ ml
+dzmm dz In celdu, puedeser‘ BOTTOM, CENTER TOP 0 BASELINE.
+
+<TD ALIGN:“AHH60CID'H“ BSCOLOR=“C0|M dz Fonda” COLSPAN="C0mb< nar Cuiumnus“
+
+ROWSPAN:“Combimr‘Fi I115" VALIEN:“AHnwcidn Verﬁcal">y 4Tb;
+
+Define um celda de la tabla. La descrIpCIdn dz I05 mnbums sen iguulas a la
+Eﬁquﬂu CINTENCIr'.
+Pmctica 2 do HTML 4SALVALO COMO PR2_B. HTM L
+
+«HTML;
+
+(HEAL),
+
+<UTLE2EJemplo 9<ITI TLE)
+
+4/HEAD,
+
+«BODY:
+
+«H1 ALIéNzCEMTER’Homr‘Iu EscuhM/Hh
+
+«TABLE ALIA9N:CENTER BORDER:4 CELLPADDIMSJO CELLSPACINE:20 BORDERCOLOR:PURPLB
+‘TH BGCOLOR=VELLOWIHom<ITHn1H>Lunas<I TH>< TH>Mi ércolzs<lTszTH>Vi away/TH,
+
+‘TR»
+
+4TD>B-lO</TDN TD ALI6N=CENTER COLSPAN: 2>Nu1ucién4TDKTDrCDmpuTuc \ (ﬁlm/TD)
+
+(TR)
+
+tTDrlOJZdTDx TD>Karme<lTDN TD)KﬂmTE‘/T!JKTD’NCI Tnciém/TD»
+
+(TR)
+
+4TD>12 -I4</TD>< TD>Inglés<lTD2
+
+4T!) ALISN=CENTER ROWSPAN=2 VALIGN=TOPICumpuTacIdn<bme<bm ImglésdTDxTDAKumTw/TD’
+(TR)
+
+JDrléLIﬁdTDx TD>Cnmpu rec i dn<lTDnTD>Inglés</‘Fb>
+
+(/TABLB
+
+t/BODV;
+
+t/HTML}
+
+E! rasulmdu 2.5
+
+Hut-aria I'qular
+
+v‘ .4-‘vmw x':
+
+Indr-
+
+Dal-urn. I
+RECUERDA m HACIENDO TU RESUMEN DE LAS ETIQUETAS HTM QUE
+SE ESTA VIENDO
+
+N0 ESPERES AL FINAL!!!
+Pmctica 2 do HTML 5
