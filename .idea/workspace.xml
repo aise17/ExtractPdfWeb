@@ -2,212 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335fc871-cdc5-42ae-b3d8-39e87fc761bb" name="Default" comment="implement webservice for frontend">
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/e2e/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/e2e/src/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/e2e/src/app.po.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/e2e/tsconfig.e2e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/browserslist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/migrations/0003_auto_20180812_2005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/migrations/0004_auto_20180812_2018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/PR_2A_HTML_2017.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/PR_2_HTML_2017.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/PR_2_HTML_2017_2sqvoiQ.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_0Yl5LGe.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_2yAmOqg_pu9snKC.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_5Is6shJ.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_ETP3Iz1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_FGbxFbS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_GtNIDKR.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_JUGPfdr.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_W0HVNZb.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_ocBSnN4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_yHPg1Fr.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/autocomplete.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/changelists.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/responsive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/responsive_rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/vendor/select2/LICENSE-SELECT2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/vendor/select2/select2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/vendor/select2/select2.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/css/widgets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/fonts/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/fonts/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/fonts/Roboto-Bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/fonts/Roboto-Light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/fonts/Roboto-Regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/calendar-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/gis/move_vertex_off.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/gis/move_vertex_on.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-addlink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-alert.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-calendar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-changelink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-clock.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-deletelink.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-no.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-unknown-alt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-unknown.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/icon-yes.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/inline-delete.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/selector-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/sorting-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/tooltag-add.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/img/tooltag-arrowright.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/SelectBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/SelectFilter2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/actions.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/autocomplete.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/calendar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/cancel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/change_form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/collapse.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/inlines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/inlines.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/jquery.init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/popup_response.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/prepopulate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/prepopulate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/prepopulate_init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/timeparse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/urlify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/LICENSE-SELECT2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/az.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/hi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/is.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/km.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/mk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/ms.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/nb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/pt-BR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/zh-CN.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/i18n/zh-TW.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/select2.full.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/select2/select2.full.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/css/bootstrap-tweaks.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/css/font-awesome-4.0.3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/css/prettify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/docs/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/docs/css/highlight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/docs/css/jquery.json-view.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/docs/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/docs/img/grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/docs/js/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/docs/js/highlight.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/docs/js/jquery.json-view.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/img/glyphicons-halflings-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/img/glyphicons-halflings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/img/grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/js/ajax-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/js/coreapi-0.1.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/js/csrf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/js/default.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/js/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/static/rest_framework/js/prettify-min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/api/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/api/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/api/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/Logs.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/Logs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/salida.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/salida.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
@@ -234,7 +35,7 @@
         <counts>
           <entry key="Dockerfile" value="147" />
           <entry key="conf" value="161" />
-          <entry key="py" value="1270" />
+          <entry key="py" value="1601" />
           <entry key="txt" value="136" />
           <entry key="yml" value="604" />
         </counts>
@@ -243,24 +44,26 @@
         <counts>
           <entry key="Dockerfile" value="147" />
           <entry key="PLAIN_TEXT" value="297" />
-          <entry key="Python" value="1270" />
+          <entry key="Python" value="1601" />
           <entry key="YAML" value="604" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Dockerfile" value="2" />
-          <entry key="conf" value="1" />
-          <entry key="py" value="31" />
-          <entry key="txt" value="6" />
+          <entry key="conf" value="2" />
+          <entry key="js" value="1" />
+          <entry key="py" value="38" />
+          <entry key="txt" value="8" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Dockerfile" value="2" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="31" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="38" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
@@ -269,48 +72,78 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/salida.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="811">
-              <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+            <state relative-caret-position="-3697" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <marker date="1534106290290" expanded="true" signature="1911:1912" ph="..." />
+                <element signature="e#26#82#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/LectorTextoEnImagenes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/urls.py">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="76">
+              <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
               <folding>
-                <element signature="e#1#33#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1534117410462" expanded="true" signature="1967:1968" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/apps.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/LectorTextoEnImagenes.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/serializers.py">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/celery.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#1#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/salida.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1508">
+              <caret line="116" column="5" lean-forward="true" selection-start-line="116" selection-start-column="5" selection-end-line="116" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/Logs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/wsgi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -318,54 +151,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <marker date="1534105100999" expanded="true" signature="177:183" ph="..." />
-                <marker date="1534105100999" expanded="true" signature="495:763" ph="..." />
+                <marker date="1534117757910" expanded="true" signature="172:178" ph="..." />
+                <marker date="1534117757910" expanded="true" signature="490:779" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#647#688#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="30">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -391,22 +191,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/celery.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Dockerfile" />
-        <option value="$PROJECT_DIR$/ExtractPdfWeb/salida.txt" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/urls.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/ExtractPdfWeb/api/models.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/api/admin.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/api/serializers.py" />
-        <option value="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" />
         <option value="$PROJECT_DIR$/ExtractPdfWeb/api/urls.py" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/Logs.py" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/salida.txt" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py" />
+        <option value="$PROJECT_DIR$/ExtractPdfWeb/api/models.py" />
       </list>
     </option>
   </component>
@@ -444,13 +245,6 @@
               <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
               <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
               <item name="barModule" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="ExtractPdfWeb" type="462c0819:PsiDirectoryNode" />
-              <item name="barModule" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ExtractPdfWeb" type="b2602c69:ProjectViewProjectNode" />
@@ -584,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533503753135</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="implement webservice for frontend">
+      <created>1534106803185</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1534106803186</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -599,7 +400,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16745655" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16745655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -610,7 +411,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.4997367" weight="0.32900432" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49815693" visible="true" weight="0.34848484" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49815693" visible="true" weight="0.34848484" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5018431" side_tool="true" weight="0.34848484" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49921012" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="11" />
@@ -685,27 +486,6 @@
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/celery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessImagen.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -727,43 +507,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/salida.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54195">
-          <caret line="3613" column="89" selection-start-line="3613" selection-start-column="89" selection-end-line="3613" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/salida.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#26#82#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/Logs.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -774,23 +517,9 @@
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-          <folding>
-            <marker date="1534105100999" expanded="true" signature="177:183" ph="..." />
-            <marker date="1534105100999" expanded="true" signature="495:763" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/LectorTextoEnImagenes.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/apps.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -798,7 +527,7 @@
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -808,40 +537,129 @@
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#647#688#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/static/admin/js/vendor/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="3912" column="7" selection-start-line="3912" selection-start-column="7" selection-end-line="3912" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#1#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/BusinessPDF.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="811">
-          <caret line="79" column="43" lean-forward="true" selection-start-line="79" selection-start-column="43" selection-end-line="79" selection-end-column="43" />
+        <state relative-caret-position="300">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/ExtractPDF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/salida.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3697" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/Logs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/celery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1534106290290" expanded="true" signature="1911:1912" ph="..." />
+            <element signature="e#26#82#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/urls.py">
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/salida.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        <state relative-caret-position="1508">
+          <caret line="116" column="5" lean-forward="true" selection-start-line="116" selection-start-column="5" selection-end-line="116" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/LectorTextoEnImagenes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <element signature="e#1#33#0" expanded="true" />
+            <marker date="1534117757910" expanded="true" signature="172:178" ph="..." />
+            <marker date="1534117757910" expanded="true" signature="490:779" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1534117410462" expanded="true" signature="1967:1968" ph="..." />
           </folding>
         </state>
       </provider>

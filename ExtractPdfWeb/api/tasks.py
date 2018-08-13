@@ -9,7 +9,7 @@ from barModule.LectorTextoEnImagenes import main
 
 @app.task
 def orc(nombre, proceso):
-    return main(nombre, proceso="")
+    return main(nombre, proceso)
 
 
 @app.task

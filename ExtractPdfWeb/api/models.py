@@ -8,8 +8,9 @@ from django.db import models
 class File(models.Model):
 
     PROCESOS = (
-        ('Proceso1', 'Blur'),
-        ('Proceso2', 'Tresholding'),
+        ('B', 'B'),
+        ('T', 'T'),
+        ('TB', 'TB'),
     )
 
     descripcion = models.TextField(max_length=255, blank=True)
@@ -25,7 +26,7 @@ class Explicacion(models.Model):
 
     titulo =models.CharField(max_length=255,blank=True)
     fecha_creacion = models.DateField(auto_now= True)
-    fehca_publicacion = models.DateField()
+    fecha_publicacion = models.DateField(null=True, blank=True)
     publicado = models.BooleanField(default=False)
     contenido = models.TextField(max_length=255, blank=False)
 
@@ -37,7 +38,7 @@ class AnuncioSuperior(models.Model):
 
     titulo = models.CharField(max_length=255,blank=True)
     fecha_creacion = models.DateField(auto_now= True)
-    fehca_publicacion = models.DateField()
+    fecha_publicacion = models.DateField(null=True, blank=True)
     publicado = models.BooleanField(default=False)
     script = models.TextField(max_length=255, blank=False)
 
@@ -47,7 +48,7 @@ class AnuncioSuperior(models.Model):
 class AnuncioLateral(models.Model):
     titulo = models.CharField(max_length=255, blank=True)
     fecha_creacion = models.DateField(auto_now=True)
-    fehca_publicacion = models.DateField()
+    fecha_publicacion = models.DateField(null=True, blank=True)
     publicado = models.BooleanField(default=False)
     script = models.TextField(max_length=255, blank=False)
 
@@ -58,7 +59,7 @@ class AnuncioInferior(models.Model):
 
     titulo = models.CharField(max_length=255,blank=True)
     fecha_creacion = models.DateField(auto_now= True)
-    fehca_publicacion = models.DateField()
+    fecha_publicacion = models.DateField(null=True, blank=True)
     publicado = models.BooleanField(default=False)
     script = models.TextField(max_length=255, blank=False)
 

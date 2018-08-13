@@ -32,15 +32,16 @@ class FileView(generics.ListCreateAPIView):
         if file_serializer.is_valid():
             file_serializer.save()
 
+            proceso = file_serializer.data.get('proceso')
             nombre:str = file_serializer.data.get('documento').__str__()
             nombre = nombre.split('/')[-1]
 
             # TODO leer proceso de los datos de entrada y configurar orc
-            text = orc.delay(nombre, proceso="")
+            text = orc.delay(nombre, proceso)
 
             text = text.get()
 
-            file_serializer.data
+           # file_serializer.data
 
             salida = {
                 "documento" : file_serializer.data,
@@ -60,23 +61,23 @@ class FileView(generics.ListCreateAPIView):
 
 class ExplicacionContent(generics.ListCreateAPIView):
 
-    queryset = Explicacion.objects.all()
+    queryset = Explicacion.objects.filter(publicado = True).order_by('fecha_publicacion')[:1]
     serializer_class = ExplicaionSerializer
 
 
 class AnuncioSuperiroView(generics.ListCreateAPIView):
 
-    queryset = AnuncioSuperior.objects.all()
+    queryset = AnuncioSuperior.objects.filter(publicado = True).order_by('fecha_publicacion')[:1]
     serializer_class = AnuncioSuperiorSerializer
 
 
 class AnuncioInferiorView(generics.ListCreateAPIView):
 
-    queryset = AnuncioInferior.objects.all()
+    queryset = AnuncioInferior.objects.filter(publicado = True).order_by('fecha_publicacion')[:1]
     serializer_class = AnuncioInferiroSerializer
 
 
 class AnuncioLateralView(generics.ListCreateAPIView):
-    queryset = AnuncioLateral.objects.all()
+    queryset = AnuncioLateral.objects.filter(publicado = True).order_by('fecha_publicacion')[:1]
     serializer_class = AnuncioLateralSerializer
 

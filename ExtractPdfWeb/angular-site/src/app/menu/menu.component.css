@@ -1,0 +1,44 @@
+.simbol ul{
+    display: none;
+    padding: 1px;
+}
+nav:hover ul {
+    position: relative;
+    height: 100px;
+    text-align: left;
+    font-size: 20px;
+    display: block; 
+    z-index: 1;
+    padding: 20px;
+    top: 38px;
+    left: -25px;
+    height: 150px;
+    
+}  
+nav div ul {
+
+    width: 200px;
+    height: 30;
+    
+
+}
+
+
+li{
+    padding: 40px;
+    background: linear-gradient(90deg, rgba(17,3,27,1) 0%, rgba(20,41,152,1) 50%, rgba(66,81,182,1) 100%);
+    border: 1px solid;
+    border-radius: 15px 15px;
+
+}
+li:hover{
+    background: rgb(53, 50, 50);
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+
+
