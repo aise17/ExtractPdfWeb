@@ -12,8 +12,8 @@ import { catchError, map, tap } from 'rxjs/operators';
 })
 export class OrcService {
 
-  private fileUrl = 'localhost:80/file/upload';
-  private explicacionUrl = 'http://localhost:80/file/explicacion/';
+  private fileUrl = 'localhost:8001/file/upload';
+  private explicacionUrl = 'http://localhost:8001/file/explicacion/';
 
   constructor(private http: HttpClient) { }
 

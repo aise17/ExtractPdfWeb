@@ -5,14 +5,14 @@ services:
   nginx:
     image: nginx:latest
     ports:
-      - "80:80"   # I like working on 80 since you don't need to specify and looking neat on URL
+      - "8001:80"   # I like working on 80 since you don't need to specify and looking neat on URL
 
     volumes:
       - .:/code
       - ./ExtractPdfWeb/config/nginx:/etc/nginx/conf.d
       - ./ExtractPdfWeb/static:/static
     depends_on:
-      - web
+      - api_web
 
 
   db:
@@ -25,7 +25,7 @@ services:
      - '6379:6379'
 
 
-  web:
+  api_web:
     build: .
     command: bash -c "cd ExtractPdfWeb && python manage.py makemigrations && python manage.py migrate && gunicorn ExtractPdfWeb.wsgi -b 0.0.0.0:8000"     #production mode
     #command: bash -c "cd ExtractPdfWeb && python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"  # develop mode
