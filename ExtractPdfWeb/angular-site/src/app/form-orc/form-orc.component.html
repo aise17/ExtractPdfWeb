@@ -1,20 +1,24 @@
 
 
-
-    <div>
-      <label>Descripción:
+<div class="contenedor">
+  <div class="caja"> 
+      <div class="imagenP"></div>
+    <div class="input">
+      <label>
         <input type="text" [(ngModel)]="formulario.descripcion" placeholder="descripcion">
       </label>
     </div>
+  </div>
 
-    <div>
-        <label>Documento:
-          <input type="file" [(ngModel)]="formulario.documento" placeholder="documento">
-        </label>
-      </div>
+  <div class="caja">
+    <div class="imagenA"></div>
+    <div class="input"> 
+      <label>
+        <input  type="file" [(ngModel)]="formulario.documento" placeholder="documento">
+      </label>
+    </div>
+  </div>
+    <button (click)="getForm()" class="boton">go back</button>
   
-    <button (click)="getForm()">go back</button>
-    <button (click)="boton()">Explicacion</button>
-
-    <p>{{formulario.descripcion}}</p>
+</div>
   

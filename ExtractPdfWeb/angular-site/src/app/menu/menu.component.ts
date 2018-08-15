@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { dirname } from 'path';
 
 @Component({
   selector: 'app-menu',
@@ -7,7 +8,24 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MenuComponent implements OnInit {
 
+
+  isSelected:boolean = false;
+
   constructor() { }
+
+
+
+
+  isOpen(){
+    if(this.isSelected === true) { 
+      this.isSelected = false;
+    } 
+    else { 
+      this.isSelected = true;
+    }
+    console.log(this.isSelected);  
+  }
+
 
   ngOnInit() {
   }

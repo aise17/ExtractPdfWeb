@@ -1,27 +1,25 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable, of } from 'rxjs';
-
-import { Explicacion } from '../models/explicacion.models'
-import { catchError, map, tap } from 'rxjs/operators';
-
+import { catchError, tap } from 'rxjs/operators';
+import { Anuncio } from '../models/anuncio.models'
 
 @Injectable({
   providedIn: 'root'
 })
-export class ExplicacionService {
+export class AnuncioLateralService {
 
-  private explicacionUrl = 'http://localhost:8001/file/explicacion/';
+
+  private anuncioLateralUrl = 'http://localhost:8001/file/anunciolateral/?format=json';
 
 
   constructor(private http: HttpClient) { }
 
-
-  getExplicacion (): Observable<Explicacion[]> {
-    return this.http.get<Explicacion[]>(this.explicacionUrl)
+  getAnuncioLateral (): Observable<Anuncio[]> {
+    return this.http.get<Anuncio[]>(this.anuncioLateralUrl)
       .pipe(
-        tap(explicacion => this.log('fetched explicacion')),
-        catchError(this.handleError('getHeroes', []))
+        tap(anuncio => this.log('fetched anuncio Lateral')),
+        catchError(this.handleError('getAnuncioLateral', []))
       );
     }
 
@@ -42,7 +40,4 @@ export class ExplicacionService {
   private log(entrada: string){
     console.log(entrada);
   }
-
-
-
 }

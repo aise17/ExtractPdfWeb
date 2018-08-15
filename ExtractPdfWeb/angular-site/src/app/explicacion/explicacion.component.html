@@ -1,5 +1,13 @@
-<p>
 
-  <button (click)="loadExplicacion()">todo</button>
-  {{formulario.descripcion}}
-</p>
+<div *ngFor="let hero of result" class="contenedor">
+    <h2 class="titulo">{{hero.titulo}}</h2> 
+    
+    <div class="contenedor">
+        <p class="contenido">
+            {{hero.contenido }}
+        </p>
+    </div>
+
+
+</div>
+

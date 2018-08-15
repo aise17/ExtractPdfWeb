@@ -13,7 +13,7 @@ import { catchError, map, tap } from 'rxjs/operators';
 export class OrcService {
 
   private fileUrl = 'localhost:8001/file/upload';
-  private explicacionUrl = 'http://localhost:8001/file/explicacion/';
+  private explicacionUrl = 'http://localhost:8001/file/explicacion/?format=json';
 
   constructor(private http: HttpClient) { }
 

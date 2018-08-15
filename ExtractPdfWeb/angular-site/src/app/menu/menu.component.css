@@ -1,44 +1,52 @@
-.simbol ul{
-    display: none;
-    padding: 1px;
-}
-nav:hover ul {
-    position: relative;
-    height: 100px;
-    text-align: left;
-    font-size: 20px;
-    display: block; 
-    z-index: 1;
-    padding: 20px;
-    top: 38px;
-    left: -25px;
-    height: 150px;
-    
-}  
-nav div ul {
-
-    width: 200px;
-    height: 30;
-    
-
-}
 
 
-li{
-    padding: 40px;
-    background: linear-gradient(90deg, rgba(17,3,27,1) 0%, rgba(20,41,152,1) 50%, rgba(66,81,182,1) 100%);
-    border: 1px solid;
-    border-radius: 15px 15px;
+.imagen{
+    background-color: linear-gradient(180deg, rgba(10,5,222,1) 7%, rgba(42,120,237,1) 47%, rgba(13,79,225,1) 72%);    
+    width: 75px;
+    height: 75px;
 
-}
-li:hover{
-    background: rgb(53, 50, 50);
+    background-image: url('/assets/menu.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 40px;
+    text-indent: -9999em;
 }
 
 a{
-    color: aliceblue;
     text-decoration: none;
+    color: aliceblue;
 }
 
+.contenedor{
+    background-color: rgb(48, 46, 46);
+    position: fixed;
+    float: left;
+    top: 70px;
+    left: 0px;
+    width: 150px;
+    z-index: 4;
+    display: block;
+    padding: 15px;
+    border-left: solid;
+    border-left-color: blue;
+    border-left-width: 15px;
+}
 
+.caja{
+    text-align: left;
+    position: relative;
+    float: top;
+    left: -15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
 
+}
+
+.caja:hover{
+    border-left: solid;
+    
+    border-left-width: 15px;
+    border-left-color: #ff4500;
+    background-color: blue;
+}

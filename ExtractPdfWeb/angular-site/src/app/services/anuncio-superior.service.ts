@@ -1,27 +1,25 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable, of } from 'rxjs';
-
-import { Explicacion } from '../models/explicacion.models'
-import { catchError, map, tap } from 'rxjs/operators';
+import { catchError, tap } from 'rxjs/operators';
+import { Anuncio } from '../models/anuncio.models'
 
 
 @Injectable({
   providedIn: 'root'
 })
-export class ExplicacionService {
+export class AnuncioSuperiorService {
 
-  private explicacionUrl = 'http://localhost:8001/file/explicacion/';
+  private anuncioSuperiorUrl = 'http://localhost:8001/file/anunciosuperior/?format=json';
 
 
   constructor(private http: HttpClient) { }
 
-
-  getExplicacion (): Observable<Explicacion[]> {
-    return this.http.get<Explicacion[]>(this.explicacionUrl)
+  getAnuncioSuperior (): Observable<Anuncio[]> {
+    return this.http.get<Anuncio[]>(this.anuncioSuperiorUrl)
       .pipe(
-        tap(explicacion => this.log('fetched explicacion')),
-        catchError(this.handleError('getHeroes', []))
+        tap(anuncio => this.log('fetched anuncio')),
+        catchError(this.handleError('getAnuncioSuperior', []))
       );
     }
 
@@ -42,7 +40,5 @@ export class ExplicacionService {
   private log(entrada: string){
     console.log(entrada);
   }
-
-
 
 }

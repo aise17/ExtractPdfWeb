@@ -10,29 +10,20 @@ import { Orc } from '../models/orc.models';
 })
 export class ExplicacionComponent implements OnInit {
 
-  constructor(private ser: ExplicacionService) { }
-
-
-  formulario : Orc = new Orc();
+  constructor(private service: ExplicacionService) { }
 
   ngOnInit() {
-    this.boton();
-    
+    this.boton()
   }
 
 
-  public result: Explicacion;
-
-  loadExplicacion(){
-    this.boton();
-    this.formulario.descripcion = this.result[0]["titulo"];
-  }
+  public result: Explicacion[];
 
 
-  boton(){
+  boton(): void {
     console.log('pulsado');
     
-    this.ser.getExplicacion()
+    this.service.getExplicacion()
       .subscribe(entrada => this.result= entrada);
       console.log(this.result);
 

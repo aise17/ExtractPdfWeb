@@ -1,10 +1,17 @@
-<nav>
-  <div class="simbol">Menu
-  <ul>
-    <li><a href="#"> Principal</a></li>
-    <li><a href="#"> ORC</a></li>
-    <li><a href="#"> Contacto</a></li>
-    <li><a href="#"> Quienes Somos</a></li>
-  </ul>
+
+  <div class="imagen">
+    <a class="image" (click)="isOpen()" ><div class="imagen"></div> </a>
   </div>
-</nav>
+
+  <div *ngIf="isSelected;then thenBlock else elseBlock" ></div>
+  <ng-template #thenBlock>
+  <div class="contenedor">
+    <div class="caja"><a href="#">Principal</a></div>
+    <div class="caja"><a href="#">ORC</a></div>
+    <div class="caja"><a href="#">Contacto</a></div>
+    <div class="caja"><a href="#">Quienes Somos</a></div>
+  </div>
+</ng-template>
+
+
+
