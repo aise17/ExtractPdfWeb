@@ -1,8 +1,10 @@
 .imagenP{
     position: relative;
     float: left;
-    top: -25px;
+    left: -50px;
+    top: 218px;
     width: 18px;
+
     height: 18px;
     padding-left: 20px;
     padding-right: 20px;
@@ -12,14 +14,15 @@
     background-position: center center;
     background-size: 18px;
     text-indent: -9999em;
-    float: top;
-    top: 0px;
+display: block;
+    
 }
 .imagenA{
     position: relative;
     float: left;
-    top: -25px;
-    width: 18px;
+    left: -68px;
+    top: 250px;
+    width: 50px;
     height: 18px;
     padding-left: 20px;
     padding-right: 20px;
@@ -30,43 +33,190 @@
     background-position: center center;
     background-size: 18px;
     text-indent: -9999em;
-    float: top;
-    top: 0px;
-}
-
-.caja{
-    position: relative;
-    float: top;
-    top: 0px;
-    padding: 15px;
-
-    width: 500px;
+display: block;
 
 }
 .contenedor{
     position: relative;
     float: left;
     top: 10px;
+    left: 40%;
+    width: 20%;
     padding: 20px;
+    background: #e2dedb;
+    color: black;
+    display: block
 
 }
 
-.boton{
-    position: relative;
-    float: left;
-    top: 10px;
-    left: 340px;
 
 
-    border-radius: 15% 15%
+
+
+input::-webkit-input-placeholder, input[type="file"]::-webkit-input-placeholder {
+  color: orangered;
+  font-size: 0.875em;
 }
-input{
-    width: 330px;
 
+input:focus::-webkit-input-placeholder, input[type="file"]:focus::-webkit-input-placeholder {
+  color: #bbb5af;
 }
-input:focus{
-    border-left-color: rgb(255, 150, 111) !important;
-    border-left-width: 7px;
-    border-color: blue;
 
+input::-moz-placeholder, input[type="file"]::-moz-placeholder {
+  color: orangered;
+  font-size: 0.875em;
 }
+
+input:focus::-moz-placeholder, input[type="file"]:focus::-moz-placeholder {
+  color: orangered;
+}
+
+input::placeholder, input[type="file"]::placeholder {
+  color: orangered;
+  font-size: 0.875em;
+}
+
+input:focus::placeholder, input[type="file"]:focus:placeholder {
+  color: orangered;
+}
+
+input::-ms-placeholder, input[type="file"]::-ms-placeholder {
+  color: orangered;
+  font-size: 0.875em;
+}
+
+input:focus::-ms-placeholder, input[type="file"]:focus::-ms-placeholder {
+  color: orangered;
+}
+
+/* on hover placeholder */
+
+input:hover::-webkit-input-placeholder, input[type="file"]:hover::-webkit-input-placeholder {
+  color: orangered;
+  font-size: 0.875em;
+}
+
+input:hover:focus::-webkit-input-placeholder, input[type="file"]:hover:focus::-webkit-input-placeholder {
+  color: orangered;
+}
+
+input:hover::-moz-placeholder, input[type="file"]:hover::-moz-placeholder {
+  color: orangered;
+  font-size: 0.875em;
+}
+
+input:hover:focus::-moz-placeholder, input[type="file"]:hover:focus::-moz-placeholder {
+  color: orangered;
+}
+
+input:hover::placeholder, input[type="file"]:hover::placeholder {
+  color: orangered;
+  font-size: 0.875em;
+}
+
+input:hover:focus::placeholder, input[type="file"]:hover:focus::placeholder {
+  color: orangered;
+}
+
+input:hover::placeholder, input[type="file"]:hover::placeholder {
+  color: orangered;
+  font-size: 0.875em;
+}
+
+input:hover:focus::-ms-placeholder, input[type="file"]:hover::focus:-ms-placeholder {
+  color: orangered;
+}
+
+
+header {
+  position: relative;
+  float: left;
+  margin: 100px 0 25px 0;
+  font-size: 2.3em;
+  text-align: center;
+  letter-spacing: 7px;
+}
+
+#form {
+  position: relative;
+  width: 500px;
+  margin: 50px auto 100px auto;
+}
+
+input {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.875em;
+  width: 470px;
+  height: 50px;
+  padding: 0px 15px 0px 15px;
+  
+  background: transparent;
+  outline: none;
+  color: orangered;
+  
+  border: solid 1px orangered;
+  border-bottom: none;
+  
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+}
+
+input:hover {
+  background: #b3aca7;
+  color: orangered;
+}
+
+input[type="file"] {
+  width: 470px;
+  max-width: 470px;
+  height: 110px;
+  max-height: 110px;
+  padding: 15px;
+  
+  background: transparent;
+  outline: none;
+  
+  color: #726659;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.875em;
+  
+  border: solid 1px orangered;
+  
+  transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+}
+
+input[type="file"]:hover {
+  background: #b3aca7;
+  color: orangered;
+}
+
+#submit {
+  width: 502px;
+  
+  padding: 0;
+  margin: -5px 0px 0px 0px;
+  
+  font-family: 'Lato', sans-serif;
+  font-size: 0.875em;
+  color: orangered;
+  
+  outline:none;
+  cursor: pointer;
+  
+  border: solid 1px orangered;
+  border-top: none;
+}
+
+#submit:hover {
+  color: orangered;
+}
+
+::-webkit-file-upload-button {
+display: none;
+
+  }

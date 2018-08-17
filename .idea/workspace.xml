@@ -2,38 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335fc871-cdc5-42ae-b3d8-39e87fc761bb" name="Default" comment="implement webservice for frontend">
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/0349_001.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/0349_001_6XtfkQI.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/0349_001_Zef8E3b.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/0349_001_ui9zL1U.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_A1LG1tV.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_BhytqzK.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_NgCc7na.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_OdmIgLc.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_caJ32cq.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_frSIM4r.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_i4RZyPq.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_igopHs1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_kDHdW0S.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_lrjbdfJ.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_mxpYiU4.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_p1ivqsu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_uWCz6Mu.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_yZ9Z0jd.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_ylBWQOS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/assets/eye.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/base-page/base-page.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/explicacion/explicacion.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/explicacion/explicacion.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/explicacion/explicacion.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/explicacion/explicacion.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/explicacion/explicacion.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/explicacion/explicacion.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/form-orc/form-orc.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/form-orc/form-orc.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/form-orc/form-orc.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/form-orc/form-orc.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/form-orc/form-orc.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/form-orc/form-orc.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/menu/menu.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/menu/menu.component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/menu/menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/menu/menu.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/menu/menu.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/menu/menu.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/services/explicacion.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/services/explicacion.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/services/orc.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/services/orc.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/PR_2A_HTML_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/PR_2_HTML_2017.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/PR_2_HTML_2017_2sqvoiQ.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/XSL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_0Yl5LGe.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_1LLuoWi.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_2QWHlT7.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_2yAmOqg.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_2yAmOqg_pu9snKC.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_4hR1pJ2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_5Is6shJ.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_7LgY6eb.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_7LgY6eb_lo8dnJV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_8AyuBQm.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_ETP3Iz1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_EpFCCcZ.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_F0YZ43b.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_FGbxFbS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_FxeGjyi.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_GJfCn9j.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_GMK299K.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_GtNIDKR.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_JUGPfdr.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_JpvfJ4X.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_JyR08vO.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_K6j92hg.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_KfKqO6b.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_Ks9oHhE.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_LR126Rp.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_LkLye5Q.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_M1TM6sJ.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_RvLVRBX.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_SFoxHmc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_TOHvyvy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_VvpVNAs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_W0HVNZb.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_WRt3ImL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_WuWCv0x.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_XuDAGWX.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_Y5oGgZI.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_YdhxeLg.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_bkU3dCZ.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_cqb1pVw.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_hsU00rY.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_iKJCD9L.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_iKJCD9L_zQcJhHb.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_jDYua7s.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_jYwNhQL.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_k877i7D.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_ocBSnN4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_ok9uCJ6.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_rbmV8K4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_rdpk4Sc.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_uLj36KV.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_ucJPCuM.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_vA7jzZH.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_vihJweT.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_w1H9r7G.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_wjk9Pab.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_y7UDRUk.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_yHPg1Fr.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_zVFGfFO.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura1_zjk2m4t.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura2_hvoe7S9.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/barModule/input/factura2_qOh4z8M.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractPdfWeb/salida.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractPdfWeb/salida.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,14 +100,15 @@
     <session id="1685953413">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -62,14 +117,14 @@
           <entry key="conf" value="175" />
           <entry key="py" value="1601" />
           <entry key="ts" value="4" />
-          <entry key="txt" value="136" />
+          <entry key="txt" value="147" />
           <entry key="yml" value="615" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Dockerfile" value="147" />
-          <entry key="PLAIN_TEXT" value="315" />
+          <entry key="PLAIN_TEXT" value="326" />
           <entry key="Python" value="1601" />
           <entry key="YAML" value="615" />
         </counts>
@@ -97,106 +152,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <marker date="1534117410462" expanded="true" signature="1967:1968" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/services/explicacion.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/form-orc/form-orc.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/services/orc.service.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="57" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/salida.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1740">
-              <caret line="116" column="5" selection-start-line="116" selection-start-column="5" selection-end-line="116" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/barModule/lib/Logs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/ExtractPdfWeb/wsgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/api/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <marker date="1534117757910" expanded="true" signature="172:178" ph="..." />
-                <marker date="1534117757910" expanded="true" signature="490:779" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/config/nginx/ExtractPdfWeb.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -435,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534204472730</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="angular web">
+      <created>1534300110384</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1534300110384</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -450,7 +413,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16745655" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16745655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -461,7 +424,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
       <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.4997367" weight="0.32900432" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49815693" visible="true" weight="0.34848484" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49815693" visible="true" weight="0.34848484" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5018431" side_tool="true" weight="0.34848484" />
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49921012" weight="0.32900432" />
       <window_info anchor="bottom" id="Python Console" order="11" />
@@ -499,7 +462,8 @@
     <MESSAGE value="api ready" />
     <MESSAGE value="api ready production" />
     <MESSAGE value="implement webservice for frontend" />
-    <option name="LAST_COMMIT_MESSAGE" value="implement webservice for frontend" />
+    <MESSAGE value="angular web" />
+    <option name="LAST_COMMIT_MESSAGE" value="angular web" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/__init__.py">
@@ -646,7 +610,6 @@
           <caret line="71" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1534117410462" expanded="true" signature="1967:1968" ph="..." />
           </folding>
         </state>
       </provider>
@@ -667,8 +630,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/services/orc.service.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="57" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="57" />
+        <state relative-caret-position="945">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
@@ -714,7 +677,7 @@
     <entry file="file://$PROJECT_DIR$/ExtractPdfWeb/angular-site/src/app/form-orc/form-orc.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="458">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>

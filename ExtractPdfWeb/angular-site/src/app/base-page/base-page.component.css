@@ -28,8 +28,8 @@
     background-color: blue;
     position: relative;
     float: right;
-    right: 9.5%;
     top: 70px;
+    right: 9.5%;
     width: 80%;
     height: 100px;
     box-sizing: border-box;
@@ -44,11 +44,12 @@
     left: 10.5%;
     top: 80px;
     width: 59.5%;
-    height: 500px;
+    height: 50%;
     box-sizing: border-box;
     padding: 5px;
     border-radius: 10px 10px;
     z-index: -1;
+    scroll-behavior: auto;
 }
 .anunciolateral{
     background-color: blueviolet;
@@ -61,20 +62,22 @@
     box-sizing: border-box;
     padding: 5px;
     border-radius: 10px 10px;
-
+    z-index: -1;
 
 }
 .anuncioinferior{
     background-color: brown;
     position: relative;
-    float: left;
-    left: 0px;
+    float: right;
     top: 90px;
-    width: 100%;
+    right: 9.5%;
+    width: 80%;
     height: 100px;
     box-sizing: border-box;
     padding: 5px;
     border-radius: 10px 10px;
+    z-index: -1;
+
 }
 .footer{
     background-color: blue;
@@ -86,5 +89,10 @@
     width: 100.95%;
     height: 100px;
     box-sizing: border-box;
-
+    z-index: -1;
+}
+.caja{
+    position: relative;
+    float: left;
+    
 }

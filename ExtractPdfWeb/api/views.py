@@ -52,16 +52,16 @@ class FileView(generics.ListCreateAPIView):
             content = text
             response = HttpResponse(content, content_type='text/plain')
             response['Content-Disposition'] = 'attachment; filename={0}'.format(filename)
-            return response
+            #return response
 
-            #return Response(salida, status=status.HTTP_201_CREATED)
+            return Response(salida, status=status.HTTP_201_CREATED)
         else:
             return Response(file_serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 
 class ExplicacionContent(generics.ListCreateAPIView):
 
-    queryset = Explicacion.objects.filter(publicado = True).order_by('fecha_publicacion')[:1]
+    queryset = Explicacion.objects.filter(publicado = True).order_by('fecha_publicacion')[:2]
     serializer_class = ExplicaionSerializer
 
 

@@ -1,9 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { Orc } from '../models/orc.models'
 
 import {OrcService} from '../services/orc.service'
-import { Services } from '@angular/core/src/view';
-import { Explicacion } from '../models/explicacion.models';
+import { saveAs } from 'file-saver/FileSaver';
 
 
 @Component({
@@ -12,7 +11,7 @@ import { Explicacion } from '../models/explicacion.models';
   styleUrls: ['./form-orc.component.css']
 })
 export class FormOrcComponent implements OnInit {
-
+  @ViewChild('fileInput') fileInput;
 
   formulario : Orc = new Orc();
 
@@ -24,18 +23,50 @@ export class FormOrcComponent implements OnInit {
 
   getForm(){
     console.log(`Descripcion ${this.formulario.descripcion}`);
-    console.log(`Descripcion ${this.formulario.documento}`);
+    console.log(`Documento ${this.formulario.documento}`);
 
   }
   
-  public result: Explicacion;
-  boton(){
-    console.log('pulsado')
-    this.ser.getExplicacion()
-      .subscribe(entrada => this.result= entrada)
-      console.log(this.result)
-      this.formulario.descripcion = this.result[0]["titulo"];
+  delay(ms: number) {
+    return new Promise( resolve => setTimeout(resolve, ms) );
+}
+
+  async send() {
+    let orc : Orc = new Orc();
+    
+    let fileBrowser = this.fileInput.nativeElement;
+    if (fileBrowser.files && fileBrowser.files[0]) {
       
+      orc.descripcion = this.formulario.descripcion;
+      orc.documento = fileBrowser.files[0];
+    
+    await this.add(orc);
+    await this.delay(3000);
+    console.log('yaa');
+
+    }
+    
   }
+  archivo: string;
+
+  add(orc: Orc){
+   
+    if (!orc) { 
+      console.log("Objeto vacio")
+      return; }
+    this.ser.addFile( orc )
+      .subscribe(res => {
+        this.archivo= res['salida'];
+        console.log(res['salida']);
+        this.saveFile();
+        return;
+      });
+    }
+    
+  saveFile() {
+    var blob = new Blob([this.archivo], {type: "text/plain;charset=utf-8"});
+    saveAs(blob, "resultado.docx");
+  };
+  
 
 }

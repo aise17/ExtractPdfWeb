@@ -1,24 +1,20 @@
 
 
-<div class="contenedor">
-  <div class="caja"> 
-      <div class="imagenP"></div>
-    <div class="input">
-      <label>
-        <input type="text" [(ngModel)]="formulario.descripcion" placeholder="descripcion">
-      </label>
-    </div>
-  </div>
 
-  <div class="caja">
-    <div class="imagenA"></div>
-    <div class="input"> 
-      <label>
-        <input  type="file" [(ngModel)]="formulario.documento" placeholder="documento">
-      </label>
-    </div>
-  </div>
-    <button (click)="getForm()" class="boton">go back</button>
+<div class="contenedor">
   
+      <div class="imagenP"></div>
+      <div class="imagenA"></div>
+      <header>OCR</header>
+  <form id="form" class="topBefore">
+		
+		  <input id="name" type="text" [(ngModel)]="formulario.descripcion" [ngModelOptions]="{standalone: true}" placeholder="TITULO">
+		  <input id="name" type="file" #fileInput [(ngModel)]="formulario.documento" [ngModelOptions]="{standalone: true}" placeholder="DOCUMENTO">
+      
+      <input (click)="send()" id="submit" type="submit" value="PROCESAR PDF...">
+  </form>
+
+  <a href="http://localhost:8001/file/upload/">descargar</a>
+
 </div>
-  
+
