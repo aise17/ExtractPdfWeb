@@ -5,16 +5,25 @@
   
       <div class="imagenP"></div>
       <div class="imagenA"></div>
+      <div class="imagenPR"></div>
       <header>OCR</header>
   <form id="form" class="topBefore">
 		
-		  <input id="name" type="text" [(ngModel)]="formulario.descripcion" [ngModelOptions]="{standalone: true}" placeholder="TITULO">
-		  <input id="name" type="file" #fileInput [(ngModel)]="formulario.documento" [ngModelOptions]="{standalone: true}" placeholder="DOCUMENTO">
-      
+        <input id="name" type="text" [(ngModel)]="formulario.descripcion" [ngModelOptions]="{standalone: true}" placeholder="TITULO">
+          
+        <input id="name" list="browsers" [(ngModel)]="formulario.proceso" [ngModelOptions]="{standalone: true}" name="browser">
+        <datalist id="browsers">
+            <option value="T">Tresholding </option>
+            <option value="B">Blur </option>
+            <option value="TB">Tresholding and Blur </option>
+
+        </datalist>
+        <input id="name" type="file" #fileInput [(ngModel)]="formulario.documento" [ngModelOptions]="{standalone: true}" placeholder="DOCUMENTO">
+                            
       <input (click)="send()" id="submit" type="submit" value="PROCESAR PDF...">
   </form>
 
-  <a href="http://localhost:8001/file/upload/">descargar</a>
+
 
 </div>
 

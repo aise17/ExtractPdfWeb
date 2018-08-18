@@ -42,6 +42,7 @@ export class OrcService {
     let fd = new FormData();
     fd.append("descripcion", orc.descripcion);
     fd.append("documento", orc.documento);
+    fd.append("proceso", orc.proceso);
 
 
     console.log(orc);

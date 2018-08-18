@@ -3607,3 +3607,202 @@ Subtotal 6.00:
 N
 Observzclonas
 WA 1,26
+
+
+-------------------------------------
+FECHA: Fri Aug 17 20:48:53 2018  ESCALA DE GRISES: TB
+-------------------------------------
+
+
+12/23/11 ‘
+1111
+
+_oo)11111111 i Nﬁped o
+Eamon) 11-11 11 12‘,
+
+Contacto en Ia‘empresa'
+Nombne tie Ia/empresa,
+D ‘ 0
+
+   
+ 
+ 
+ 
+ 
+
+   
+ 
+     
+Bred}: uniiarlé import;
+ 
+
+1 Ele” ento’ nlﬂmé'ro 3 2,00 € 2,00 €
+ 
+ 
+ 
+
+ob'séri'a'éldna‘s:
+
+
+-------------------------------------
+FECHA: Fri Aug 17 20:59:59 2018  ESCALA DE GRISES: default
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccmn Foch: 12/23/11
+Ciudad, Provincia 00000 Fawn w
+Teléfon0:100) 11 11 11 11 Ha:
+Fax.IDD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+camldad DescrIpclm Preclo urmarlo Imports
+1 Elemenm numem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenm numem 3 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6.00:
+N
+Observzclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Fri Aug 17 21:08:05 2018  ESCALA DE GRISES: T
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccién Foch: 12/23/11
+cmuau, Provincia 00000 Fawn w
+Teléfono: 100) 11 11 11 11 Ha:
+Fax:[DD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+cantldad Description Preclo unharla Importe
+1 Elemenmnumem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenmnumema 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6,00:
+1”“
+Observaclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Fri Aug 17 23:06:37 2018  ESCALA DE GRISES: T
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccién Foch: 12/23/11
+cmuau, Provincia 00000 Fawn w
+Teléfono: 100) 11 11 11 11 Ha:
+Fax:[DD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+cantldad Description Preclo unharla Importe
+1 Elemenmnumem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenmnumema 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6,00:
+1”“
+Observaclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sat Aug 18 01:18:43 2018  ESCALA DE GRISES: T
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccién Foch: 12/23/11
+cmuau, Provincia 00000 Fawn w
+Teléfono: 100) 11 11 11 11 Ha:
+Fax:[DD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+cantldad Description Preclo unharla Importe
+1 Elemenmnumem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenmnumema 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6,00:
+1”“
+Observaclonas
+WA 1,26

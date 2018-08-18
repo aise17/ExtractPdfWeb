@@ -39,6 +39,7 @@ export class FormOrcComponent implements OnInit {
       
       orc.descripcion = this.formulario.descripcion;
       orc.documento = fileBrowser.files[0];
+      orc.proceso = this.formulario.proceso;
     
     await this.add(orc);
     await this.delay(3000);
@@ -59,7 +60,7 @@ export class FormOrcComponent implements OnInit {
         this.archivo= res['salida'];
         console.log(res['salida']);
         this.saveFile();
-        return;
+        
       });
     }
     
