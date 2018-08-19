@@ -10,6 +10,9 @@ import { ExplicacionComponent } from './explicacion/explicacion.component';
 
 import {FormsModule} from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { AppRoutingModule } from './/app-routing.module';
+import { GoOcrComponent } from './go-ocr/go-ocr.component';
+import { IndexComponent } from './index/index.component';
 
 @NgModule({
   declarations: [
@@ -18,12 +21,15 @@ import { HttpClientModule } from '@angular/common/http';
     MenuComponent,
     LogoComponent,
     FormOrcComponent,
-    ExplicacionComponent
+    ExplicacionComponent,
+    GoOcrComponent,
+    IndexComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     HttpClientModule,
+    AppRoutingModule,
 
   ],
   providers: [],

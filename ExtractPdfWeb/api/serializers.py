@@ -1,6 +1,6 @@
 
 from rest_framework import serializers
-from .models import File, AnuncioInferior, AnuncioSuperior, AnuncioLateral, Explicacion
+from .models import File, AnuncioInferior, AnuncioSuperior, AnuncioLateral, Explicacion,IpsFiles, Incidencia
 
 
 class ArchivoSerializer(serializers.ModelSerializer):
@@ -36,5 +36,12 @@ class AnuncioInferiroSerializer(serializers.ModelSerializer):
         model= AnuncioInferior
         fields = "__all__"
 
+class IpsFileSerializers(serializers.ModelSerializer):
+    class Meta:
+        model= IpsFiles
+        fields = "__all__"
 
-
+class IncidenciaSerializers(serializers.ModelSerializer):
+    class Meta:
+        model= Incidencia
+        fields = "__all__"

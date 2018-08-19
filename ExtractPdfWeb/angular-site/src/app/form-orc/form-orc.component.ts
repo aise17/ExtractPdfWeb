@@ -15,7 +15,6 @@ export class FormOrcComponent implements OnInit {
 
   formulario : Orc = new Orc();
 
-  
   constructor(private ser: OrcService) { }
 
   ngOnInit() {
@@ -44,9 +43,7 @@ export class FormOrcComponent implements OnInit {
     await this.add(orc);
     await this.delay(3000);
     console.log('yaa');
-
-    }
-    
+    }  
   }
   archivo: string;
 
@@ -65,7 +62,7 @@ export class FormOrcComponent implements OnInit {
     }
     
   saveFile() {
-    var blob = new Blob([this.archivo], {type: "text/plain;charset=utf-8"});
+    var blob = new Blob([this.archivo], {type: "text/plain;charset=ansi"});
     saveAs(blob, "resultado.docx");
   };
   

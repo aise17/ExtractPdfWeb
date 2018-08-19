@@ -3806,3 +3806,320 @@ Subtotal 6,00:
 1”“
 Observaclonas
 WA 1,26
+
+
+-------------------------------------
+FECHA: Sat Aug 18 20:35:57 2018  ESCALA DE GRISES: T
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccién Foch: 12/23/11
+cmuau, Provincia 00000 Fawn w
+Teléfono: 100) 11 11 11 11 Ha:
+Fax:[DD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+cantldad Description Preclo unharla Importe
+1 Elemenmnumem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenmnumema 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6,00:
+1”“
+Observaclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug 19 00:24:30 2018  ESCALA DE GRISES: T
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccién Foch: 12/23/11
+cmuau, Provincia 00000 Fawn w
+Teléfono: 100) 11 11 11 11 Ha:
+Fax:[DD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+cantldad Description Preclo unharla Importe
+1 Elemenmnumem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenmnumema 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6,00:
+1”“
+Observaclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug 19 00:24:41 2018  ESCALA DE GRISES: TB
+-------------------------------------
+
+
+12/23/11 ‘
+1111
+
+_oo)11111111 i Nﬁped o
+Eamon) 11-11 11 12‘,
+
+Contacto en Ia‘empresa'
+Nombne tie Ia/empresa,
+D ‘ 0
+
+   
+ 
+ 
+ 
+ 
+
+   
+ 
+     
+Bred}: uniiarlé import;
+ 
+
+1 Ele” ento’ nlﬂmé'ro 3 2,00 € 2,00 €
+ 
+ 
+ 
+
+ob'séri'a'éldna‘s:
+
+
+-------------------------------------
+FECHA: Sun Aug 19 00:24:53 2018  ESCALA DE GRISES: B
+-------------------------------------
+
+
+Loco FACTURA
+
+.mrmm Fod- > 12/23/11
+(mm-r. Vmwnm, [mono haw-l ‘ 1111
+Vrlr‘onn “in II II n u M: N9 pedioo
+
+v’axlmlu u u I]
+
+Fanny- pm:
+Conrado en la empresa
+Nombre de la empresa
+Dlrecaén
+Cludadl Provmcua 00000
+(00) 22 22 22 22
+
+  
+    
+   
+  
+  
+    
+     
+    
+
+mam Impou-
+  
+
+l [IPmanmimc-m] 2 [MN 1001
+1 EIemenlondmeroZ 2,001: 2,001:
+l [lamenmmimern 3 2 out 100‘
+Em C
+ 
+
+Em C
+Duo!
+I [)DO[
+
+Em C
+[) (X) t
+
+
+-------------------------------------
+FECHA: Sun Aug 19 00:29:54 2018  ESCALA DE GRISES: B
+-------------------------------------
+
+
+Loco FACTURA
+
+.mrmm Fod- > 12/23/11
+(mm-r. Vmwnm, [mono haw-l ‘ 1111
+Vrlr‘onn “in II II n u M: N9 pedioo
+
+v’axlmlu u u I]
+
+Fanny- pm:
+Conrado en la empresa
+Nombre de la empresa
+Dlrecaén
+Cludadl Provmcua 00000
+(00) 22 22 22 22
+
+  
+    
+   
+  
+  
+    
+     
+    
+
+mam Impou-
+  
+
+l [IPmanmimc-m] 2 [MN 1001
+1 EIemenlondmeroZ 2,001: 2,001:
+l [lamenmmimern 3 2 out 100‘
+Em C
+ 
+
+Em C
+Duo!
+I [)DO[
+
+Em C
+[) (X) t
+
+
+-------------------------------------
+FECHA: Sun Aug 19 15:45:19 2018  ESCALA DE GRISES: T
+-------------------------------------
+
+
+LOGO FACTURA
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+
+Direccién Foch: 12/23/11
+cmuau, Provincia 00000 Fawn w
+Teléfono: 100) 11 11 11 11 Ha:
+Fax:[DD) 11 11 11 12
+Facmra para:
+Contacto en la empresa
+Nombre de la empresa
+Direccién
+Ciudad, Provincia 00000
+(00) 22 22 22 22
+cantldad Description Preclo unharla Importe
+1 Elemenmnumem 1 2,00: 2,00:
+1 Elemento nL’Imero 2 2,00 € 2,00 €
+1 Elemenmnumema 2,00: 2,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+0,00:
+Subtotal 6,00:
+1”“
+Observaclonas
+WA 1,26
+
+
+-------------------------------------
+FECHA: Sun Aug 19 18:45:44 2018  ESCALA DE GRISES: T
+-------------------------------------
+
+
+Factura: 231 Fecha: 10/06/2018
+
+marlano raloy
+3423M Datos del cliente
+moncloa Pedro sanchez
+53454555 65465535
+c/ Nuevo presidents
+54846458
+Descripcian produao/sewicio m
+—l-mum
+—m-mum
+
+    
+Observaciones Base imponible: 31 ,00
+IVA<21%):
+
+TOTAL: 3751
+
+
+-------------------------------------
+FECHA: Sun Aug 19 18:46:42 2018  ESCALA DE GRISES: TB
+-------------------------------------
+
+
+iFiciu axis 1’ Eéc‘Ha: ﬂows/aim,
+
+marlano rélby , ﬂ
+" " Datos de] cliente
+-' 34254.1"
+moncloa Redrqsanchezi
+1534464566, 55455535
+ci/Nuevq presidents;
+54846456
+,De's'cripeia’n:srcducw/s'em'cm
+—m-mum
+—m-mum
+
+Observaciones Base imponible:
+
+TOTAL 37, 51
+
+
+-------------------------------------
+FECHA: Sun Aug 19 18:47:04 2018  ESCALA DE GRISES: B
+-------------------------------------
+
+
+Faclura: 231 Fecha: 10/06/2018
+
+madam raloy
+342346 Dalos del chenle
+W P9010 Sanchez
+W [35465535
+c Nuevo pvesmenle
+15464134513
+oesmpcuonprooucmscmrv
+—l-mﬂl-
+Observaciones
+
+mm:

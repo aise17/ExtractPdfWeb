@@ -45,7 +45,7 @@ class FileView(generics.ListCreateAPIView):
 
             salida = {
                 "documento" : file_serializer.data,
-                "salida" : repr(text),
+                "salida" : text,
             }
 
             filename = nombre + '.txt'
@@ -61,7 +61,7 @@ class FileView(generics.ListCreateAPIView):
 
 class ExplicacionContent(generics.ListCreateAPIView):
 
-    queryset = Explicacion.objects.filter(publicado = True).order_by('fecha_publicacion')[:2]
+    queryset = Explicacion.objects.filter(publicado = True).order_by('fecha_publicacion')[:3]
     serializer_class = ExplicaionSerializer
 
 

@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'ExtractPdfWeb.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
+        'NAME': 'ExtractPdf',
         'USER': 'postgres',
         'HOST': 'db',
         'PORT': 5432,

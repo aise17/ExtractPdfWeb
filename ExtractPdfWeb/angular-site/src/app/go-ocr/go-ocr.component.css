@@ -1,0 +1,26 @@
+
+.contenedor{
+    position: relative;
+    float: left;
+    width: 600px;
+    height: 300px;
+}
+
+.boton{
+    position: relative;
+    float: left;
+    top: 80px;
+    left: 45%;
+
+    height: 50px;
+    width: 600px;
+
+    background-color: transparent;
+    border: solid;
+    border-radius: 10% 10%;
+    text-decoration: none;
+    text-align: center;
+    margin: 10px;
+    color: orangered;
+    font-size: 50px;
+}
